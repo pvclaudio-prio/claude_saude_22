@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nome": "AP-01",
+    "derivado": true,
+    "centro_lat": -22.925987083576995,
+    "centro_lon": -43.252148999752116
+  },
+  {
+    "id": 2,
+    "nome": "AP-02",
+    "derivado": true,
+    "centro_lat": -3.6205846025860744,
+    "centro_lon": -42.40879582514504
+  },
+  {
+    "id": 3,
+    "nome": "AP-03",
+    "derivado": true,
+    "centro_lat": -3.0530263533827515,
+    "centro_lon": -59.97978489217041
+  },
+  {
+    "id": 4,
+    "nome": "AP-04",
+    "derivado": true,
+    "centro_lat": -22.893169497441864,
+    "centro_lon": -46.48295070119615
+  },
+  {
+    "id": 5,
+    "nome": "AP-05",
+    "derivado": true,
+    "centro_lat": -21.52320549768547,
+    "centro_lon": -41.57458076227907
+  },
+  {
+    "id": 6,
+    "nome": "AP-06",
+    "derivado": true,
+    "centro_lat": -8.077830993012258,
+    "centro_lon": -34.99787079901154
+  },
+  {
+    "id": 7,
+    "nome": "AP-07",
+    "derivado": true,
+    "centro_lat": -22.963892342612326,
+    "centro_lon": -43.308209759419086
+  },
+  {
+    "id": 8,
+    "nome": "AP-08",
+    "derivado": true,
+    "centro_lat": -14.636547681864904,
+    "centro_lon": -39.55072589808453
+  },
+  {
+    "id": 9,
+    "nome": "AP-09",
+    "derivado": true,
+    "centro_lat": -22.919960456913902,
+    "centro_lon": -43.22515038454234
+  },
+  {
+    "id": 10,
+    "nome": "AP-10",
+    "derivado": true,
+    "centro_lat": -23.525928935489784,
+    "centro_lon": -50.59699413113628
+  }
+]

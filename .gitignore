@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+dist/
+build/
+
+# Node / Vite
+node_modules/
+frontend/dist/
+frontend/.vite/
+*.tsbuildinfo
+
+# Dados gerados / banco
+backend/data/*.db
+backend/data/*.db-journal
+backend/data/chroma/
+backend/data/quality_report.json
+backend/data/audios_tmp/
+
+# Modelos de STT cacheados
+backend/models/
+
+# Ambiente / segredos
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+samples/
+
+# Samples pesados que não devem ir ao repo final (mantidos no working tree)
+# (descomente quando publicar)
+# samples/*.parquet
+# samples/*.m4a
+# samples/*.pdf
+# samples/*.jpeg

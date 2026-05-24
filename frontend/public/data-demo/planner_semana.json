@@ -1,0 +1,1588 @@
+{
+  "profissional_id": 2471,
+  "dias": [
+    {
+      "profissional_id": 2471,
+      "profissional_nome": "ACS Âmbar-af9c",
+      "equipe_id": 26,
+      "data": "2026-05-25",
+      "itens": [
+        {
+          "ordem": 1,
+          "paciente_id": 16255,
+          "nome_display": "Paciente Saruê-Turquesa-45a3",
+          "score_combinado": 0.579,
+          "nivel_risco": "baixo",
+          "score_risco": 18.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Sem visita registrada nos dados.",
+            "A 0.1 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.938764975527764,
+          "longitude": -43.25202559909006,
+          "status": "pendente"
+        },
+        {
+          "ordem": 2,
+          "paciente_id": 83243,
+          "nome_display": "Paciente Marreca-Vinho-3000",
+          "score_combinado": 0.647,
+          "nivel_risco": "alto",
+          "score_risco": 42.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente idoso (66+).",
+            "Hipertensão referida.",
+            "Diabetes referida.",
+            "Sem visita há 293 dias (>180).",
+            "A 0.2 km da sede da equipe.",
+            "Última visita há 293 dias."
+          ],
+          "latitude": -22.939233999400187,
+          "longitude": -43.25049584195846,
+          "status": "pendente"
+        },
+        {
+          "ordem": 3,
+          "paciente_id": 16507,
+          "nome_display": "Paciente Capivara-Pêssego-1efe",
+          "score_combinado": 0.58,
+          "nivel_risco": "moderado",
+          "score_risco": 24.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Hipertensão referida.",
+            "Sem visita há 374 dias (>180).",
+            "A 0.3 km da sede da equipe.",
+            "Última visita há 374 dias."
+          ],
+          "latitude": -22.938554763625337,
+          "longitude": -43.24933796855627,
+          "status": "pendente"
+        },
+        {
+          "ordem": 4,
+          "paciente_id": 82946,
+          "nome_display": "Paciente Veado-Ciano-2e0f",
+          "score_combinado": 0.626,
+          "nivel_risco": "moderado",
+          "score_risco": 30.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente idoso (66+).",
+            "Sem visita registrada nos dados.",
+            "A 0.2 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.94088446084639,
+          "longitude": -43.25134517133573,
+          "status": "pendente"
+        },
+        {
+          "ordem": 5,
+          "paciente_id": 16545,
+          "nome_display": "Paciente Tucano-Areia-6a8d",
+          "score_combinado": 0.672,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 0.3 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.941649814778906,
+          "longitude": -43.25440137738346,
+          "status": "pendente"
+        },
+        {
+          "ordem": 6,
+          "paciente_id": 1078,
+          "nome_display": "Paciente Quati-Dourado-333a",
+          "score_combinado": 0.579,
+          "nivel_risco": "alto",
+          "score_risco": 45.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Criança 0-6 anos.",
+            "Sem visita há 152 dias (>90).",
+            "A 0.2 km da sede da equipe.",
+            "Última visita há 152 dias."
+          ],
+          "latitude": -22.938386412178954,
+          "longitude": -43.253862007669234,
+          "status": "pendente"
+        },
+        {
+          "ordem": 7,
+          "paciente_id": 47729,
+          "nome_display": "Paciente Boto-Rosé-2bdf",
+          "score_combinado": 0.626,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 0.8 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.935446112907982,
+          "longitude": -43.24517535705812,
+          "status": "pendente"
+        },
+        {
+          "ordem": 8,
+          "paciente_id": 16555,
+          "nome_display": "Paciente Boto-Bege-65c0",
+          "score_combinado": 0.612,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 1.0 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.931854681976777,
+          "longitude": -43.2461133657973,
+          "status": "pendente"
+        },
+        {
+          "ordem": 9,
+          "paciente_id": 83355,
+          "nome_display": "Paciente Siriri-Bege-f9d7",
+          "score_combinado": 0.62,
+          "nivel_risco": "alto",
+          "score_risco": 55.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente idoso (66+).",
+            "Sem visita registrada nos dados.",
+            "A 2.1 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.929140926484255,
+          "longitude": -43.2344143470705,
+          "status": "pendente"
+        },
+        {
+          "ordem": 10,
+          "paciente_id": 47688,
+          "nome_display": "Paciente Boto-Ocre-bfd0",
+          "score_combinado": 0.603,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita há 387 dias (>180).",
+            "A 1.2 km da sede da equipe.",
+            "Última visita há 387 dias."
+          ],
+          "latitude": -22.94848732603839,
+          "longitude": -43.258437113188926,
+          "status": "pendente"
+        },
+        {
+          "ordem": 11,
+          "paciente_id": 83048,
+          "nome_display": "Paciente Sabiá-Ciano-7003",
+          "score_combinado": 0.584,
+          "nivel_risco": "alto",
+          "score_risco": 59.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente idoso (66+).",
+            "Hipertensão referida.",
+            "Diabetes referida.",
+            "Sem visita há 180 dias (>90).",
+            "A 1.2 km da sede da equipe.",
+            "Última visita há 180 dias."
+          ],
+          "latitude": -22.94639879633677,
+          "longitude": -43.26056040869302,
+          "status": "pendente"
+        },
+        {
+          "ordem": 12,
+          "paciente_id": 83109,
+          "nome_display": "Paciente Veado-Âmbar-cbdf",
+          "score_combinado": 0.652,
+          "nivel_risco": "critico",
+          "score_risco": 67.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente idoso (66+).",
+            "Hipertensão referida.",
+            "Diabetes referida.",
+            "Sem visita registrada nos dados.",
+            "A 3.1 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.96051340523908,
+          "longitude": -43.272661662234626,
+          "status": "pendente"
+        }
+      ],
+      "distancia_total_km": 0.0,
+      "pesos": {
+        "risco": 0.5,
+        "proximidade": 0.3,
+        "recencia": 0.2
+      },
+      "gerado_em": "2026-05-24T16:26:43.832075"
+    },
+    {
+      "profissional_id": 2471,
+      "profissional_nome": "ACS Âmbar-af9c",
+      "equipe_id": 26,
+      "data": "2026-05-26",
+      "itens": [
+        {
+          "ordem": 1,
+          "paciente_id": 67160,
+          "nome_display": "Paciente Boto-Oliva-23f5",
+          "score_combinado": 0.55,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita há 196 dias (>180).",
+            "A 0.6 km da sede da equipe.",
+            "Última visita há 196 dias."
+          ],
+          "latitude": -22.944317703611897,
+          "longitude": -43.25538517385969,
+          "status": "pendente"
+        },
+        {
+          "ordem": 2,
+          "paciente_id": 16138,
+          "nome_display": "Paciente Tatu-Turquesa-e330",
+          "score_combinado": 0.565,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita há 287 dias (>180).",
+            "A 1.1 km da sede da equipe.",
+            "Última visita há 287 dias."
+          ],
+          "latitude": -22.941991409778325,
+          "longitude": -43.24155370530101,
+          "status": "pendente"
+        },
+        {
+          "ordem": 3,
+          "paciente_id": 1053,
+          "nome_display": "Paciente Inhambu-Areia-8213",
+          "score_combinado": 0.569,
+          "nivel_risco": "alto",
+          "score_risco": 53.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Criança 0-6 anos.",
+            "Sem visita há 306 dias (>180).",
+            "A 2.4 km da sede da equipe.",
+            "Última visita há 306 dias."
+          ],
+          "latitude": -22.919584227663737,
+          "longitude": -43.24298863559553,
+          "status": "pendente"
+        },
+        {
+          "ordem": 4,
+          "paciente_id": 16403,
+          "nome_display": "Paciente Siriri-Ocre-80df",
+          "score_combinado": 0.549,
+          "nivel_risco": "critico",
+          "score_risco": 63.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente gestante.",
+            "Sem visita há 244 dias (>180).",
+            "A 4.0 km da sede da equipe.",
+            "Última visita há 244 dias."
+          ],
+          "latitude": -22.96592347673104,
+          "longitude": -43.278747191594825,
+          "status": "pendente"
+        },
+        {
+          "ordem": 5,
+          "paciente_id": 1060,
+          "nome_display": "Paciente Siriri-Pêssego-c646",
+          "score_combinado": 0.552,
+          "nivel_risco": "alto",
+          "score_risco": 53.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Criança 0-6 anos.",
+            "Sem visita registrada nos dados.",
+            "A 4.9 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.973656609256377,
+          "longitude": -43.28270422955794,
+          "status": "pendente"
+        },
+        {
+          "ordem": 6,
+          "paciente_id": 83101,
+          "nome_display": "Paciente Tatu-Dourado-a461",
+          "score_combinado": 0.566,
+          "nivel_risco": "critico",
+          "score_risco": 67.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente idoso (66+).",
+            "Hipertensão referida.",
+            "Diabetes referida.",
+            "Sem visita há 270 dias (>180).",
+            "A 5.2 km da sede da equipe.",
+            "Última visita há 270 dias."
+          ],
+          "latitude": -22.97610117814308,
+          "longitude": -43.2834910884486,
+          "status": "pendente"
+        },
+        {
+          "ordem": 7,
+          "paciente_id": 83302,
+          "nome_display": "Paciente Siriri-Esmeralda-7607",
+          "score_combinado": 0.558,
+          "nivel_risco": "alto",
+          "score_risco": 55.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente idoso (66+).",
+            "Sem visita registrada nos dados.",
+            "A 5.2 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.97607067294495,
+          "longitude": -43.28366981951206,
+          "status": "pendente"
+        },
+        {
+          "ordem": 8,
+          "paciente_id": 83030,
+          "nome_display": "Paciente Sabiá-Vinho-377e",
+          "score_combinado": 0.549,
+          "nivel_risco": "critico",
+          "score_risco": 61.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente idoso (66+).",
+            "Hipertensão referida.",
+            "Sem visita há 294 dias (>180).",
+            "A 5.2 km da sede da equipe.",
+            "Última visita há 294 dias."
+          ],
+          "latitude": -22.97635864103535,
+          "longitude": -43.2835277231144,
+          "status": "pendente"
+        },
+        {
+          "ordem": 9,
+          "paciente_id": 82985,
+          "nome_display": "Paciente Tucano-Coral-18f6",
+          "score_combinado": 0.558,
+          "nivel_risco": "alto",
+          "score_risco": 55.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente idoso (66+).",
+            "Sem visita há 417 dias (>180).",
+            "A 5.3 km da sede da equipe.",
+            "Última visita há 417 dias."
+          ],
+          "latitude": -22.976624883766902,
+          "longitude": -43.28391716455956,
+          "status": "pendente"
+        },
+        {
+          "ordem": 10,
+          "paciente_id": 83363,
+          "nome_display": "Paciente Onça-Safira-ab31",
+          "score_combinado": 0.557,
+          "nivel_risco": "alto",
+          "score_risco": 55.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente idoso (66+).",
+            "Sem visita registrada nos dados.",
+            "A 5.3 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.97684411051576,
+          "longitude": -43.28452658785939,
+          "status": "pendente"
+        },
+        {
+          "ordem": 11,
+          "paciente_id": 82954,
+          "nome_display": "Paciente Saruê-Rubro-ec73",
+          "score_combinado": 0.563,
+          "nivel_risco": "critico",
+          "score_risco": 67.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente idoso (66+).",
+            "Hipertensão referida.",
+            "Diabetes referida.",
+            "Sem visita há 265 dias (>180).",
+            "A 5.2 km da sede da equipe.",
+            "Última visita há 265 dias."
+          ],
+          "latitude": -22.976988601798748,
+          "longitude": -43.28255582660958,
+          "status": "pendente"
+        },
+        {
+          "ordem": 12,
+          "paciente_id": 1031,
+          "nome_display": "Paciente Siriri-Magenta-5b26",
+          "score_combinado": 0.554,
+          "nivel_risco": "alto",
+          "score_risco": 53.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Criança 0-6 anos.",
+            "Sem visita registrada nos dados.",
+            "A 4.8 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.976210217708683,
+          "longitude": -43.27616517373699,
+          "status": "pendente"
+        }
+      ],
+      "distancia_total_km": 0.0,
+      "pesos": {
+        "risco": 0.5,
+        "proximidade": 0.3,
+        "recencia": 0.2
+      },
+      "gerado_em": "2026-05-24T16:26:43.851608"
+    },
+    {
+      "profissional_id": 2471,
+      "profissional_nome": "ACS Âmbar-af9c",
+      "equipe_id": 26,
+      "data": "2026-05-27",
+      "itens": [
+        {
+          "ordem": 1,
+          "paciente_id": 47655,
+          "nome_display": "Paciente Veado-Rubro-df7c",
+          "score_combinado": 0.532,
+          "nivel_risco": "moderado",
+          "score_risco": 35.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita há 161 dias (>90).",
+            "A 0.2 km da sede da equipe.",
+            "Última visita há 161 dias."
+          ],
+          "latitude": -22.94105946619216,
+          "longitude": -43.25365397195236,
+          "status": "pendente"
+        },
+        {
+          "ordem": 2,
+          "paciente_id": 16317,
+          "nome_display": "Paciente Sabiá-Oliva-8d22",
+          "score_combinado": 0.528,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita há 201 dias (>180).",
+            "A 1.0 km da sede da equipe.",
+            "Última visita há 201 dias."
+          ],
+          "latitude": -22.944849014086486,
+          "longitude": -43.25953650041468,
+          "status": "pendente"
+        },
+        {
+          "ordem": 3,
+          "paciente_id": 16030,
+          "nome_display": "Paciente Veado-Rubro-3f62",
+          "score_combinado": 0.533,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 3.1 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.96088927439419,
+          "longitude": -43.27154242780542,
+          "status": "pendente"
+        },
+        {
+          "ordem": 4,
+          "paciente_id": 47743,
+          "nome_display": "Paciente Tatu-Bege-8077",
+          "score_combinado": 0.528,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 3.3 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.961919712696815,
+          "longitude": -43.27339284529848,
+          "status": "pendente"
+        },
+        {
+          "ordem": 5,
+          "paciente_id": 16607,
+          "nome_display": "Paciente Marreca-Esmeralda-cb2f",
+          "score_combinado": 0.544,
+          "nivel_risco": "alto",
+          "score_risco": 49.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Diabetes referida.",
+            "Sem visita há 416 dias (>180).",
+            "A 4.0 km da sede da equipe.",
+            "Última visita há 416 dias."
+          ],
+          "latitude": -22.965280100177292,
+          "longitude": -43.27984180664342,
+          "status": "pendente"
+        },
+        {
+          "ordem": 6,
+          "paciente_id": 47748,
+          "nome_display": "Paciente Capivara-Azul-3f88",
+          "score_combinado": 0.543,
+          "nivel_risco": "alto",
+          "score_risco": 49.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Hipertensão referida.",
+            "Sem visita registrada nos dados.",
+            "A 4.1 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.966439788224413,
+          "longitude": -43.279632346368345,
+          "status": "pendente"
+        },
+        {
+          "ordem": 7,
+          "paciente_id": 83331,
+          "nome_display": "Paciente Tucano-Areia-062c",
+          "score_combinado": 0.535,
+          "nivel_risco": "critico",
+          "score_risco": 67.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente idoso (66+).",
+            "Hipertensão referida.",
+            "Diabetes referida.",
+            "Sem visita há 206 dias (>180).",
+            "A 4.9 km da sede da equipe.",
+            "Última visita há 206 dias."
+          ],
+          "latitude": -22.972342884770946,
+          "longitude": -43.28401141378985,
+          "status": "pendente"
+        },
+        {
+          "ordem": 8,
+          "paciente_id": 1032,
+          "nome_display": "Paciente Garça-Rubro-aee6",
+          "score_combinado": 0.546,
+          "nivel_risco": "alto",
+          "score_risco": 53.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Criança 0-6 anos.",
+            "Sem visita há 358 dias (>180).",
+            "A 5.1 km da sede da equipe.",
+            "Última visita há 358 dias."
+          ],
+          "latitude": -22.974441526907,
+          "longitude": -43.28365778995629,
+          "status": "pendente"
+        },
+        {
+          "ordem": 9,
+          "paciente_id": 83206,
+          "nome_display": "Paciente Tatu-Areia-ae6a",
+          "score_combinado": 0.537,
+          "nivel_risco": "critico",
+          "score_risco": 67.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente idoso (66+).",
+            "Hipertensão referida.",
+            "Diabetes referida.",
+            "Sem visita há 216 dias (>180).",
+            "A 5.2 km da sede da equipe.",
+            "Última visita há 216 dias."
+          ],
+          "latitude": -22.975083508799273,
+          "longitude": -43.28440425366068,
+          "status": "pendente"
+        },
+        {
+          "ordem": 10,
+          "paciente_id": 47893,
+          "nome_display": "Paciente Jaguatirica-Ocre-22da",
+          "score_combinado": 0.528,
+          "nivel_risco": "alto",
+          "score_risco": 49.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Hipertensão referida.",
+            "Sem visita há 451 dias (>180).",
+            "A 5.2 km da sede da equipe.",
+            "Última visita há 451 dias."
+          ],
+          "latitude": -22.975955208273227,
+          "longitude": -43.28435109657521,
+          "status": "pendente"
+        },
+        {
+          "ordem": 11,
+          "paciente_id": 1027,
+          "nome_display": "Paciente Ariranha-Âmbar-174c",
+          "score_combinado": 0.547,
+          "nivel_risco": "alto",
+          "score_risco": 53.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Criança 0-6 anos.",
+            "Sem visita registrada nos dados.",
+            "A 5.3 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.975192911099157,
+          "longitude": -43.28601064219736,
+          "status": "pendente"
+        },
+        {
+          "ordem": 12,
+          "paciente_id": 1040,
+          "nome_display": "Paciente Saruê-Dourado-7da7",
+          "score_combinado": 0.548,
+          "nivel_risco": "alto",
+          "score_risco": 53.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Criança 0-6 anos.",
+            "Sem visita registrada nos dados.",
+            "A 5.2 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.97433562937163,
+          "longitude": -43.28616684096301,
+          "status": "pendente"
+        }
+      ],
+      "distancia_total_km": 0.0,
+      "pesos": {
+        "risco": 0.5,
+        "proximidade": 0.3,
+        "recencia": 0.2
+      },
+      "gerado_em": "2026-05-24T16:26:43.868081"
+    },
+    {
+      "profissional_id": 2471,
+      "profissional_nome": "ACS Âmbar-af9c",
+      "equipe_id": 26,
+      "data": "2026-05-28",
+      "itens": [
+        {
+          "ordem": 1,
+          "paciente_id": 47987,
+          "nome_display": "Paciente Quati-Areia-0888",
+          "score_combinado": 0.514,
+          "nivel_risco": "moderado",
+          "score_risco": 24.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Hipertensão referida.",
+            "Sem visita há 232 dias (>180).",
+            "A 0.2 km da sede da equipe.",
+            "Última visita há 232 dias."
+          ],
+          "latitude": -22.941629627798868,
+          "longitude": -43.25266015414836,
+          "status": "pendente"
+        },
+        {
+          "ordem": 2,
+          "paciente_id": 16399,
+          "nome_display": "Paciente Tatu-Ciano-3421",
+          "score_combinado": 0.518,
+          "nivel_risco": "baixo",
+          "score_risco": 18.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Sem visita há 376 dias (>180).",
+            "A 0.6 km da sede da equipe.",
+            "Última visita há 376 dias."
+          ],
+          "latitude": -22.944109922802355,
+          "longitude": -43.25565254773857,
+          "status": "pendente"
+        },
+        {
+          "ordem": 3,
+          "paciente_id": 83145,
+          "nome_display": "Paciente Quati-Safira-8902",
+          "score_combinado": 0.515,
+          "nivel_risco": "moderado",
+          "score_risco": 30.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente idoso (66+).",
+            "Sem visita registrada nos dados.",
+            "A 1.6 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.930377275898284,
+          "longitude": -43.23966875351445,
+          "status": "pendente"
+        },
+        {
+          "ordem": 4,
+          "paciente_id": 48080,
+          "nome_display": "Paciente Carcará-Areia-220e",
+          "score_combinado": 0.52,
+          "nivel_risco": "alto",
+          "score_risco": 55.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Hipertensão referida.",
+            "Diabetes referida.",
+            "Sem visita há 265 dias (>180).",
+            "A 4.0 km da sede da equipe.",
+            "Última visita há 265 dias."
+          ],
+          "latitude": -22.9125072744131,
+          "longitude": -43.226091990881336,
+          "status": "pendente"
+        },
+        {
+          "ordem": 5,
+          "paciente_id": 83187,
+          "nome_display": "Paciente Jaguatirica-Indigo-d4dc",
+          "score_combinado": 0.527,
+          "nivel_risco": "alto",
+          "score_risco": 42.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente idoso (66+).",
+            "Hipertensão referida.",
+            "Diabetes referida.",
+            "Sem visita há 366 dias (>180).",
+            "A 3.1 km da sede da equipe.",
+            "Última visita há 366 dias."
+          ],
+          "latitude": -22.960573228294184,
+          "longitude": -43.27266295439377,
+          "status": "pendente"
+        },
+        {
+          "ordem": 6,
+          "paciente_id": 83218,
+          "nome_display": "Paciente Inhambu-Bege-ea62",
+          "score_combinado": 0.526,
+          "nivel_risco": "alto",
+          "score_risco": 42.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente idoso (66+).",
+            "Hipertensão referida.",
+            "Diabetes referida.",
+            "Sem visita registrada nos dados.",
+            "A 3.2 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.961116804925723,
+          "longitude": -43.272629905743216,
+          "status": "pendente"
+        },
+        {
+          "ordem": 7,
+          "paciente_id": 67077,
+          "nome_display": "Paciente Ariranha-Rosé-76fa",
+          "score_combinado": 0.515,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 4.0 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.965553562875627,
+          "longitude": -43.278864774550115,
+          "status": "pendente"
+        },
+        {
+          "ordem": 8,
+          "paciente_id": 48094,
+          "nome_display": "Paciente Jaguatirica-Safira-7a8b",
+          "score_combinado": 0.515,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 4.0 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.966088378738444,
+          "longitude": -43.27856495746488,
+          "status": "pendente"
+        },
+        {
+          "ordem": 9,
+          "paciente_id": 66987,
+          "nome_display": "Paciente Carcará-Esmeralda-58c7",
+          "score_combinado": 0.514,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 4.0 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.96635781432343,
+          "longitude": -43.27873957930083,
+          "status": "pendente"
+        },
+        {
+          "ordem": 10,
+          "paciente_id": 47784,
+          "nome_display": "Paciente Sabiá-Coral-e4c0",
+          "score_combinado": 0.514,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 4.0 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.965591728194767,
+          "longitude": -43.2796667539683,
+          "status": "pendente"
+        },
+        {
+          "ordem": 11,
+          "paciente_id": 83234,
+          "nome_display": "Paciente Saruê-Rosé-af65",
+          "score_combinado": 0.522,
+          "nivel_risco": "alto",
+          "score_risco": 55.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente idoso (66+).",
+            "Sem visita há 301 dias (>180).",
+            "A 5.3 km da sede da equipe.",
+            "Última visita há 301 dias."
+          ],
+          "latitude": -22.97597072017903,
+          "longitude": -43.285128769132456,
+          "status": "pendente"
+        },
+        {
+          "ordem": 12,
+          "paciente_id": 47986,
+          "nome_display": "Paciente Marreca-Verde-a489",
+          "score_combinado": 0.527,
+          "nivel_risco": "alto",
+          "score_risco": 49.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Hipertensão referida.",
+            "Sem visita há 425 dias (>180).",
+            "A 5.4 km da sede da equipe.",
+            "Última visita há 425 dias."
+          ],
+          "latitude": -22.977093371333776,
+          "longitude": -43.28477886093774,
+          "status": "pendente"
+        }
+      ],
+      "distancia_total_km": 0.0,
+      "pesos": {
+        "risco": 0.5,
+        "proximidade": 0.3,
+        "recencia": 0.2
+      },
+      "gerado_em": "2026-05-24T16:26:43.883998"
+    },
+    {
+      "profissional_id": 2471,
+      "profissional_nome": "ACS Âmbar-af9c",
+      "equipe_id": 26,
+      "data": "2026-05-29",
+      "itens": [
+        {
+          "ordem": 1,
+          "paciente_id": 47925,
+          "nome_display": "Paciente Sabiá-Dourado-5c04",
+          "score_combinado": 0.51,
+          "nivel_risco": "moderado",
+          "score_risco": 30.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Hipertensão referida.",
+            "Diabetes referida.",
+            "Sem visita há 265 dias (>180).",
+            "A 0.8 km da sede da equipe.",
+            "Última visita há 265 dias."
+          ],
+          "latitude": -22.941251960988257,
+          "longitude": -43.24462780580136,
+          "status": "pendente"
+        },
+        {
+          "ordem": 2,
+          "paciente_id": 83149,
+          "nome_display": "Paciente Onça-Lima-4b62",
+          "score_combinado": 0.504,
+          "nivel_risco": "moderado",
+          "score_risco": 30.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente idoso (66+).",
+            "Sem visita registrada nos dados.",
+            "A 1.9 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.93279325579892,
+          "longitude": -43.23507074624765,
+          "status": "pendente"
+        },
+        {
+          "ordem": 3,
+          "paciente_id": 48085,
+          "nome_display": "Paciente Inhambu-Oliva-016c",
+          "score_combinado": 0.512,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita há 362 dias (>180).",
+            "A 4.1 km da sede da equipe.",
+            "Última visita há 362 dias."
+          ],
+          "latitude": -22.966474420773473,
+          "longitude": -43.27947369121074,
+          "status": "pendente"
+        },
+        {
+          "ordem": 4,
+          "paciente_id": 16276,
+          "nome_display": "Paciente Capivara-Oliva-66cd",
+          "score_combinado": 0.506,
+          "nivel_risco": "alto",
+          "score_risco": 44.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente gestante.",
+            "Hipertensão referida.",
+            "Sem visita registrada nos dados.",
+            "A 5.0 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.973861898923687,
+          "longitude": -43.283133866079694,
+          "status": "pendente"
+        },
+        {
+          "ordem": 5,
+          "paciente_id": 1044,
+          "nome_display": "Paciente Ariranha-Ciano-879b",
+          "score_combinado": 0.506,
+          "nivel_risco": "alto",
+          "score_risco": 53.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Criança 0-6 anos.",
+            "Sem visita há 288 dias (>180).",
+            "A 5.2 km da sede da equipe.",
+            "Última visita há 288 dias."
+          ],
+          "latitude": -22.975315304759327,
+          "longitude": -43.28432779286741,
+          "status": "pendente"
+        },
+        {
+          "ordem": 6,
+          "paciente_id": 1080,
+          "nome_display": "Paciente Garça-Âmbar-3cb3",
+          "score_combinado": 0.504,
+          "nivel_risco": "alto",
+          "score_risco": 53.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Criança 0-6 anos.",
+            "Sem visita há 285 dias (>180).",
+            "A 5.2 km da sede da equipe.",
+            "Última visita há 285 dias."
+          ],
+          "latitude": -22.97641082065553,
+          "longitude": -43.283341256930534,
+          "status": "pendente"
+        },
+        {
+          "ordem": 7,
+          "paciente_id": 1077,
+          "nome_display": "Paciente Tatu-Âmbar-ebe4",
+          "score_combinado": 0.514,
+          "nivel_risco": "alto",
+          "score_risco": 53.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Criança 0-6 anos.",
+            "Sem visita há 304 dias (>180).",
+            "A 5.3 km da sede da equipe.",
+            "Última visita há 304 dias."
+          ],
+          "latitude": -22.97679020817677,
+          "longitude": -43.2840814987332,
+          "status": "pendente"
+        },
+        {
+          "ordem": 8,
+          "paciente_id": 83003,
+          "nome_display": "Paciente Siriri-Areia-f348",
+          "score_combinado": 0.513,
+          "nivel_risco": "critico",
+          "score_risco": 61.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente idoso (66+).",
+            "Hipertensão referida.",
+            "Sem visita há 227 dias (>180).",
+            "A 5.2 km da sede da equipe.",
+            "Última visita há 227 dias."
+          ],
+          "latitude": -22.97448235945996,
+          "longitude": -43.28572210775866,
+          "status": "pendente"
+        },
+        {
+          "ordem": 9,
+          "paciente_id": 16220,
+          "nome_display": "Paciente Veado-Azul-1d13",
+          "score_combinado": 0.504,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 4.7 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.97543106502613,
+          "longitude": -43.2767207030869,
+          "status": "pendente"
+        },
+        {
+          "ordem": 10,
+          "paciente_id": 16585,
+          "nome_display": "Paciente Garça-Dourado-9ed4",
+          "score_combinado": 0.504,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 4.7 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.9758485525228,
+          "longitude": -43.276237460782625,
+          "status": "pendente"
+        },
+        {
+          "ordem": 11,
+          "paciente_id": 16109,
+          "nome_display": "Paciente Tucano-Turquesa-3a1c",
+          "score_combinado": 0.504,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 4.7 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.975818844256395,
+          "longitude": -43.27610867103362,
+          "status": "pendente"
+        },
+        {
+          "ordem": 12,
+          "paciente_id": 16286,
+          "nome_display": "Paciente Sabiá-Pêssego-9c82",
+          "score_combinado": 0.504,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 4.8 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.976069877738254,
+          "longitude": -43.27650963828232,
+          "status": "pendente"
+        }
+      ],
+      "distancia_total_km": 0.0,
+      "pesos": {
+        "risco": 0.5,
+        "proximidade": 0.3,
+        "recencia": 0.2
+      },
+      "gerado_em": "2026-05-24T16:26:43.899533"
+    },
+    {
+      "profissional_id": 2471,
+      "profissional_nome": "ACS Âmbar-af9c",
+      "equipe_id": 26,
+      "data": "2026-05-30",
+      "itens": [
+        {
+          "ordem": 1,
+          "paciente_id": 67119,
+          "nome_display": "Paciente Curió-Bege-4b67",
+          "score_combinado": 0.503,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 4.8 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.976106009049857,
+          "longitude": -43.27684845708758,
+          "status": "pendente"
+        },
+        {
+          "ordem": 2,
+          "paciente_id": 16335,
+          "nome_display": "Paciente Lagartixa-Turquesa-3936",
+          "score_combinado": 0.503,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 4.8 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.97631649509299,
+          "longitude": -43.277196731748035,
+          "status": "pendente"
+        },
+        {
+          "ordem": 3,
+          "paciente_id": 47634,
+          "nome_display": "Paciente Inhambu-Azul-1885",
+          "score_combinado": 0.503,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 4.8 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.976591811835096,
+          "longitude": -43.27682418007086,
+          "status": "pendente"
+        },
+        {
+          "ordem": 4,
+          "paciente_id": 16147,
+          "nome_display": "Paciente Veado-Oliva-adf4",
+          "score_combinado": 0.503,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita há 375 dias (>180).",
+            "A 4.8 km da sede da equipe.",
+            "Última visita há 375 dias."
+          ],
+          "latitude": -22.976621514655015,
+          "longitude": -43.2767278073049,
+          "status": "pendente"
+        },
+        {
+          "ordem": 5,
+          "paciente_id": 47802,
+          "nome_display": "Paciente Veado-Dourado-83fa",
+          "score_combinado": 0.503,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 4.8 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.976471140225296,
+          "longitude": -43.27631247309163,
+          "status": "pendente"
+        },
+        {
+          "ordem": 6,
+          "paciente_id": 16344,
+          "nome_display": "Paciente Siriri-Esmeralda-dc18",
+          "score_combinado": 0.5,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 5.0 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.974999519949517,
+          "longitude": -43.28250780617813,
+          "status": "pendente"
+        },
+        {
+          "ordem": 7,
+          "paciente_id": 16051,
+          "nome_display": "Paciente Garça-Âmbar-7991",
+          "score_combinado": 0.501,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 5.0 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.973953631796995,
+          "longitude": -43.283745703103534,
+          "status": "pendente"
+        },
+        {
+          "ordem": 8,
+          "paciente_id": 16352,
+          "nome_display": "Paciente Jaguatirica-Vinho-7494",
+          "score_combinado": 0.501,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 5.0 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.973229550220353,
+          "longitude": -43.28457049355595,
+          "status": "pendente"
+        },
+        {
+          "ordem": 9,
+          "paciente_id": 16431,
+          "nome_display": "Paciente Saruê-Dourado-a485",
+          "score_combinado": 0.502,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 4.9 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.97269943531766,
+          "longitude": -43.283505339604666,
+          "status": "pendente"
+        },
+        {
+          "ordem": 10,
+          "paciente_id": 67078,
+          "nome_display": "Paciente Onça-Vinho-1118",
+          "score_combinado": 0.503,
+          "nivel_risco": "alto",
+          "score_risco": 43.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Sem visita registrada nos dados.",
+            "A 4.8 km da sede da equipe.",
+            "Sem visita registrada anteriormente."
+          ],
+          "latitude": -22.972940505461192,
+          "longitude": -43.28243627752793,
+          "status": "pendente"
+        },
+        {
+          "ordem": 11,
+          "paciente_id": 47725,
+          "nome_display": "Paciente Saruê-Turquesa-c188",
+          "score_combinado": 0.503,
+          "nivel_risco": "alto",
+          "score_risco": 49.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Hipertensão referida.",
+            "Sem visita há 320 dias (>180).",
+            "A 5.3 km da sede da equipe.",
+            "Última visita há 320 dias."
+          ],
+          "latitude": -22.97642375782441,
+          "longitude": -43.28425590198166,
+          "status": "pendente"
+        },
+        {
+          "ordem": 12,
+          "paciente_id": 83245,
+          "nome_display": "Paciente Garça-Bege-8e80",
+          "score_combinado": 0.501,
+          "nivel_risco": "critico",
+          "score_risco": 61.0,
+          "distancia_km": 0.0,
+          "dias_sem_visita": null,
+          "componentes": {},
+          "motivos": [
+            "Paciente em situação de vulnerabilidade social.",
+            "Paciente idoso (66+).",
+            "Hipertensão referida.",
+            "Sem visita há 208 dias (>180).",
+            "A 5.3 km da sede da equipe.",
+            "Última visita há 208 dias."
+          ],
+          "latitude": -22.97610511113617,
+          "longitude": -43.2852460090887,
+          "status": "pendente"
+        }
+      ],
+      "distancia_total_km": 0.0,
+      "pesos": {
+        "risco": 0.5,
+        "proximidade": 0.3,
+        "recencia": 0.2
+      },
+      "gerado_em": "2026-05-24T16:26:43.916986"
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+[
+  {
+    "id": 1,
+    "hash_id": "73aa56cf7683d390272ba019ce145b079445416496f023eee8dcc0d4947181bc",
+    "nome_display": "Equipe Maracujá-73aa",
+    "unidade_id": 8,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "sede_lat": -22.96551022359073,
+    "sede_lon": -43.27733359589801
+  },
+  {
+    "id": 2,
+    "hash_id": "0b5b56a26bd95ad02588586083dc0c6250a6c1dc2e7925f6b0292237709ecd73",
+    "nome_display": "Equipe Umbu-0b5b",
+    "unidade_id": 5,
+    "ap_id": 1,
+    "bairro_id": 11,
+    "sede_lat": -22.96551022359073,
+    "sede_lon": -43.27733359589801
+  },
+  {
+    "id": 3,
+    "hash_id": "96cc1625da6360c617203cbe31c79815a543964914b4ab5407f6685ac09ee01d",
+    "nome_display": "Equipe Pitanga-96cc",
+    "unidade_id": 1,
+    "ap_id": 1,
+    "bairro_id": 29,
+    "sede_lat": -22.96551022359073,
+    "sede_lon": -43.27733359589801
+  },
+  {
+    "id": 4,
+    "hash_id": "b2ac3cfe104d598f7f2e34d145720edda08964a233bd9ea40fd050d56b4d53d8",
+    "nome_display": "Equipe Abacaxi-b2ac",
+    "unidade_id": 4,
+    "ap_id": 1,
+    "bairro_id": 23,
+    "sede_lat": -22.916920771224344,
+    "sede_lon": -43.2590629048654
+  },
+  {
+    "id": 5,
+    "hash_id": "7b6acc32ae88f20292b9c6ae983ccadf1255e326d5ca875b6b93a4bb660f6edc",
+    "nome_display": "Equipe Graviola-7b6a",
+    "unidade_id": 6,
+    "ap_id": 9,
+    "bairro_id": 17,
+    "sede_lat": -22.916920771224344,
+    "sede_lon": -43.2590629048654
+  },
+  {
+    "id": 6,
+    "hash_id": "0802baac661e2f6577accafb2d5415bfc278712ac53ea9c7abfb7233ecc4a12a",
+    "nome_display": "Equipe Cajá-0802",
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "sede_lat": -22.916920771224344,
+    "sede_lon": -43.2590629048654
+  },
+  {
+    "id": 7,
+    "hash_id": "2b88321215e29c4f680883cd2ae1cea0e9fe4a0899439114356069285743b5b0",
+    "nome_display": "Equipe Graviola-2b88",
+    "unidade_id": 6,
+    "ap_id": 9,
+    "bairro_id": 17,
+    "sede_lat": -22.916920771224344,
+    "sede_lon": -43.2590629048654
+  },
+  {
+    "id": 8,
+    "hash_id": "80ed31ba9c813c253baca46fad2b96511c4609263f1b80379a81242c6135b4b9",
+    "nome_display": "Equipe Pitanga-80ed",
+    "unidade_id": 6,
+    "ap_id": 9,
+    "bairro_id": 17,
+    "sede_lat": -22.916958068083417,
+    "sede_lon": -43.25593091588483
+  },
+  {
+    "id": 9,
+    "hash_id": "11ed514b1bfa14f04d4931d0ace6cb3a12b01e37a58ce906ccb04434869fa3b2",
+    "nome_display": "Equipe Pitanga-11ed",
+    "unidade_id": 2,
+    "ap_id": 9,
+    "bairro_id": 1,
+    "sede_lat": -22.916958068083417,
+    "sede_lon": -43.25593091588483
+  },
+  {
+    "id": 10,
+    "hash_id": "175f0aa0767f194d766f98b9eb4c176b1c755cd845a24fd0ec76e3792e2c7658",
+    "nome_display": "Equipe Pitanga-175f",
+    "unidade_id": 2,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "sede_lat": -22.916958068083417,
+    "sede_lon": -43.25593091588483
+  },
+  {
+    "id": 11,
+    "hash_id": "09f58fa44f6bf855c5553604d34dc5d18549b9b348ee96bb6b336ecf1b5ca460",
+    "nome_display": "Equipe Goiaba-09f5",
+    "unidade_id": 4,
+    "ap_id": 1,
+    "bairro_id": 23,
+    "sede_lat": -22.916958068083417,
+    "sede_lon": -43.25593091588483
+  },
+  {
+    "id": 12,
+    "hash_id": "28480e5ec33ad202264aee858efe5b2468f3c641ba75a849378c9d43ba936d05",
+    "nome_display": "Equipe Acerola-2848",
+    "unidade_id": 5,
+    "ap_id": 1,
+    "bairro_id": 22,
+    "sede_lat": -22.916958068083417,
+    "sede_lon": -43.25593091588483
+  },
+  {
+    "id": 13,
+    "hash_id": "4dce78dfffab3fc663d8236ee91ae7d799482445d2f1f43717e815f53327e1d0",
+    "nome_display": "Equipe Pitanga-4dce",
+    "unidade_id": 6,
+    "ap_id": 9,
+    "bairro_id": 17,
+    "sede_lat": -22.916958068083417,
+    "sede_lon": -43.25593091588483
+  },
+  {
+    "id": 14,
+    "hash_id": "cf4fc46a2ceab4f245172776252cf8d3fe3a1345bc036f78912b6670e98db367",
+    "nome_display": "Equipe Umbu-cf4f",
+    "unidade_id": 2,
+    "ap_id": 9,
+    "bairro_id": 1,
+    "sede_lat": -22.916958068083417,
+    "sede_lon": -43.25593091588483
+  },
+  {
+    "id": 15,
+    "hash_id": "61853042d02ac04ffb075bdbb201fce96b30064f3391e4434f7450637e4d858c",
+    "nome_display": "Equipe Acerola-6185",
+    "unidade_id": 8,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "sede_lat": -22.916958068083417,
+    "sede_lon": -43.25593091588483
+  },
+  {
+    "id": 16,
+    "hash_id": "dc1a0c6361d481053bb64d0e5ed8a105662adee820cceaf3f26b4b3daac209d6",
+    "nome_display": "Equipe Abacaxi-dc1a",
+    "unidade_id": 6,
+    "ap_id": 9,
+    "bairro_id": 17,
+    "sede_lat": -22.916958068083417,
+    "sede_lon": -43.25593091588483
+  },
+  {
+    "id": 17,
+    "hash_id": "a74eb1eec19302df10cde2418e409429ccb2db41e24e77828b34ceee1e70a77a",
+    "nome_display": "Equipe Pitanga-a74e",
+    "unidade_id": 2,
+    "ap_id": 9,
+    "bairro_id": 1,
+    "sede_lat": -22.916958068083417,
+    "sede_lon": -43.25593091588483
+  },
+  {
+    "id": 18,
+    "hash_id": "d79e1f571dfd55678fd49ec20c519d6bae26b55a305f8c01a7b0634583a71e7e",
+    "nome_display": "Equipe Tamarindo-d79e",
+    "unidade_id": 2,
+    "ap_id": 9,
+    "bairro_id": 22,
+    "sede_lat": -22.924652624274493,
+    "sede_lon": -43.25504982206208
+  },
+  {
+    "id": 19,
+    "hash_id": "dabc3b32d3d2fc707bf96b768c6821ae38e61a106f0f3bfce2c07911900e8264",
+    "nome_display": "Equipe Maracujá-dabc",
+    "unidade_id": 2,
+    "ap_id": 9,
+    "bairro_id": 1,
+    "sede_lat": -22.924652624274493,
+    "sede_lon": -43.25504982206208
+  },
+  {
+    "id": 20,
+    "hash_id": "b5c99563564b972d294cee41ece2e6dbbe08047572d191e4d06276ce53b8123d",
+    "nome_display": "Equipe Jabuticaba-b5c9",
+    "unidade_id": 5,
+    "ap_id": 1,
+    "bairro_id": 11,
+    "sede_lat": -22.924652624274493,
+    "sede_lon": -43.25504982206208
+  },
+  {
+    "id": 21,
+    "hash_id": "97dbc63025f44dcca3cbb6e8f4c59dbf73cf69bacbdd284f781cd04d445e6077",
+    "nome_display": "Equipe Pitanga-97db",
+    "unidade_id": 5,
+    "ap_id": 1,
+    "bairro_id": 29,
+    "sede_lat": -22.924652624274493,
+    "sede_lon": -43.25504982206208
+  },
+  {
+    "id": 22,
+    "hash_id": "938e3af37a735355cd34b351b7c031b5ecbe19ac74d178b6eb897473e4686bd7",
+    "nome_display": "Equipe Cupuaçu-938e",
+    "unidade_id": 5,
+    "ap_id": 1,
+    "bairro_id": 29,
+    "sede_lat": -22.924652624274493,
+    "sede_lon": -43.25504982206208
+  },
+  {
+    "id": 23,
+    "hash_id": "f3633a09f8013608849b91347970a95a6d1fdbb0916c3bab60397e05d2abc3f4",
+    "nome_display": "Equipe Maracujá-f363",
+    "unidade_id": 4,
+    "ap_id": 1,
+    "bairro_id": 23,
+    "sede_lat": -22.924652624274493,
+    "sede_lon": -43.25504982206208
+  },
+  {
+    "id": 24,
+    "hash_id": "54b5dc57439d76fed4580c2d09e412688e4d385e5566428662b124a4378c0a93",
+    "nome_display": "Equipe Cupuaçu-54b5",
+    "unidade_id": 4,
+    "ap_id": 1,
+    "bairro_id": 23,
+    "sede_lat": -22.93947176094694,
+    "sede_lon": -43.2521405528795
+  },
+  {
+    "id": 25,
+    "hash_id": "10ac7830f9d7a5d5e57dddae33eebd382a61ea7a593000cb95e0ca7573d523a7",
+    "nome_display": "Equipe Pitomba-10ac",
+    "unidade_id": 6,
+    "ap_id": 9,
+    "bairro_id": 17,
+    "sede_lat": -22.93947176094694,
+    "sede_lon": -43.2521405528795
+  },
+  {
+    "id": 26,
+    "hash_id": "54221d7b033e3ea7a8c5708a3a7faf01ebf216033bf237aa165762c7e40f51c4",
+    "nome_display": "Equipe Goiaba-5422",
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "sede_lat": -22.93947176094694,
+    "sede_lon": -43.2521405528795
+  },
+  {
+    "id": 27,
+    "hash_id": "dd8175c86518ff68d3029ff3269d9fee72c0b5d2048c2404b58f6f50ff743d05",
+    "nome_display": "Equipe Umbu-dd81",
+    "unidade_id": 9,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "sede_lat": -22.93681441703343,
+    "sede_lon": -43.248165951368634
+  },
+  {
+    "id": 28,
+    "hash_id": "03ea90e1b0ae9bdb6c7956eaf69f147a73bef51a1f6523dec5d0ee5223d7b0da",
+    "nome_display": "Equipe Murici-03ea",
+    "unidade_id": 2,
+    "ap_id": 9,
+    "bairro_id": 1,
+    "sede_lat": -22.942253663664093,
+    "sede_lon": -43.243097343959555
+  },
+  {
+    "id": 29,
+    "hash_id": "7af21a109118f1e422377d9b2ae5b532f206b39699d5ccad65b5be31f9dc4c74",
+    "nome_display": "Equipe Pitomba-7af2",
+    "unidade_id": 6,
+    "ap_id": 9,
+    "bairro_id": 17,
+    "sede_lat": -22.942253663664093,
+    "sede_lon": -43.243097343959555
+  },
+  {
+    "id": 30,
+    "hash_id": "243a016a2a94c8f92080b1dbd04b16047e62af55c5704e7db96e1a9c73e676a2",
+    "nome_display": "Equipe Pitanga-243a",
+    "unidade_id": 7,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "sede_lat": -22.928955716556025,
+    "sede_lon": -43.23398359552194
+  },
+  {
+    "id": 31,
+    "hash_id": "2c9e95d9439808afa2ea19575a6e8ffd794934449b5bf8a68022e39b5065e47b",
+    "nome_display": "Equipe Cajá-2c9e",
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "sede_lat": -22.928955716556025,
+    "sede_lon": -43.23398359552194
+  },
+  {
+    "id": 32,
+    "hash_id": "a49f0b8e0a46ad27ad821a374ac6aababdaa97ac80345e97857868b98b97b5db",
+    "nome_display": "Equipe Maracujá-a49f",
+    "unidade_id": 5,
+    "ap_id": 1,
+    "bairro_id": 29,
+    "sede_lat": -22.928955716556025,
+    "sede_lon": -43.23398359552194
+  },
+  {
+    "id": 33,
+    "hash_id": "2322bd58082565cb6314d47478acd55ac0e51ffb35b99e44938feeea9ca1a20a",
+    "nome_display": "Equipe Tamarindo-2322",
+    "unidade_id": 5,
+    "ap_id": 1,
+    "bairro_id": 11,
+    "sede_lat": -22.928955716556025,
+    "sede_lon": -43.23398359552194
+  },
+  {
+    "id": 34,
+    "hash_id": "13ac01a5da1579c884d771c59ca0171faab29ba4f23669f05f6880a9a2e94b3a",
+    "nome_display": "Equipe Murici-13ac",
+    "unidade_id": 2,
+    "ap_id": 1,
+    "bairro_id": 1,
+    "sede_lat": -22.928955716556025,
+    "sede_lon": -43.23398359552194
+  },
+  {
+    "id": 35,
+    "hash_id": "4b2b034e21c18052d1046b251271b4a2ff36ae5caf96c99fde13113d67299b2b",
+    "nome_display": "Equipe Cajá-4b2b",
+    "unidade_id": 5,
+    "ap_id": 9,
+    "bairro_id": 11,
+    "sede_lat": -22.928955716556025,
+    "sede_lon": -43.23398359552194
+  },
+  {
+    "id": 36,
+    "hash_id": "2ad66d654762465c3956c0da70e64958587163470925bd95bbe750976c9d83f2",
+    "nome_display": "Equipe Umbu-2ad6",
+    "unidade_id": 2,
+    "ap_id": 9,
+    "bairro_id": 1,
+    "sede_lat": -22.928955716556025,
+    "sede_lon": -43.23398359552194
+  },
+  {
+    "id": 37,
+    "hash_id": "0206636a6ea8f41ca0160ee7655cacacf2a83bfd5974400d8be1a691ba293c87",
+    "nome_display": "Equipe Abacaxi-0206",
+    "unidade_id": 1,
+    "ap_id": 1,
+    "bairro_id": 29,
+    "sede_lat": -22.928955716556025,
+    "sede_lon": -43.23398359552194
+  },
+  {
+    "id": 38,
+    "hash_id": "45a1f849f69356222f6eee260eceb6d5dda8bd1356c0245164843a954ea0c1bb",
+    "nome_display": "Equipe Jenipapo-45a1",
+    "unidade_id": 2,
+    "ap_id": 1,
+    "bairro_id": 22,
+    "sede_lat": -22.928955716556025,
+    "sede_lon": -43.23398359552194
+  },
+  {
+    "id": 39,
+    "hash_id": "7fd568fef6834b00d2470c120876fce9ea62fb055904428b402b3093ba8e44ac",
+    "nome_display": "Equipe Graviola-7fd5",
+    "unidade_id": 6,
+    "ap_id": 9,
+    "bairro_id": 22,
+    "sede_lat": -22.928955716556025,
+    "sede_lon": -43.23398359552194
+  },
+  {
+    "id": 40,
+    "hash_id": "5156786de238ed12d2a094607076939b1d7ca86055dfc6ab92260820b40bc04a",
+    "nome_display": "Equipe Graviola-5156",
+    "unidade_id": 1,
+    "ap_id": 1,
+    "bairro_id": 29,
+    "sede_lat": -22.928955716556025,
+    "sede_lon": -43.23398359552194
+  },
+  {
+    "id": 41,
+    "hash_id": "590f8e0337dc21777dcb7aa880074ed663ddea506ad8ef244a473fc9dfdca825",
+    "nome_display": "Equipe Abacaxi-590f",
+    "unidade_id": 7,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "sede_lat": -22.928955716556025,
+    "sede_lon": -43.23398359552194
+  },
+  {
+    "id": 42,
+    "hash_id": "830bdc106ed12054d69721a3599cd920a24aa9e08b6dca467626bc2a8c7e94fb",
+    "nome_display": "Equipe Acerola-830b",
+    "unidade_id": 7,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "sede_lat": -22.91388494999904,
+    "sede_lon": -43.212902054560274
+  },
+  {
+    "id": 43,
+    "hash_id": "d4651def08bf1bcba44ddc549ae075960a0bdf285dd23cb2d839e4e7cb31a849",
+    "nome_display": "Equipe Jenipapo-d465",
+    "unidade_id": 5,
+    "ap_id": 1,
+    "bairro_id": 11,
+    "sede_lat": -22.91388494999904,
+    "sede_lon": -43.212902054560274
+  },
+  {
+    "id": 44,
+    "hash_id": "f6590df3e6194cf100229023b56b6779f999bb2b8a00bddd1f04ffe1ef51e565",
+    "nome_display": "Equipe Cupuaçu-f659",
+    "unidade_id": 1,
+    "ap_id": 1,
+    "bairro_id": 29,
+    "sede_lat": -22.91388494999904,
+    "sede_lon": -43.212902054560274
+  },
+  {
+    "id": 45,
+    "hash_id": "efc20930e3d6ecf4f8aaf278483b4b4746d5498f68275578ea0946179f8755f2",
+    "nome_display": "Equipe Umbu-efc2",
+    "unidade_id": 4,
+    "ap_id": 1,
+    "bairro_id": 23,
+    "sede_lat": -22.91388494999904,
+    "sede_lon": -43.212902054560274
+  },
+  {
+    "id": 46,
+    "hash_id": "c00d6beaab9f1648a42fb77560c20c4d733d8c3477edbaac65cff9f1ba1cb3b7",
+    "nome_display": "Equipe Goiaba-c00d",
+    "unidade_id": 4,
+    "ap_id": 1,
+    "bairro_id": 23,
+    "sede_lat": -22.91388494999904,
+    "sede_lon": -43.212902054560274
+  },
+  {
+    "id": 47,
+    "hash_id": "d33bab5de5cf17f4938fa11890508e354a20c25ee33b71da1dd32716bd366112",
+    "nome_display": "Equipe Tamarindo-d33b",
+    "unidade_id": 2,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "sede_lat": -22.91388494999904,
+    "sede_lon": -43.212902054560274
+  },
+  {
+    "id": 48,
+    "hash_id": "dbf66c7a6727488e6281bfd7ac4f583c4e4cfaa099d7ebc715792c6220abd7da",
+    "nome_display": "Equipe Buriti-dbf6",
+    "unidade_id": 2,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "sede_lat": -22.91388494999904,
+    "sede_lon": -43.212902054560274
+  },
+  {
+    "id": 49,
+    "hash_id": "b3b53b34f77c8967b62248f51129409aa353a5386c32415fbc8bee98ad3d2bda",
+    "nome_display": "Equipe Cajá-b3b5",
+    "unidade_id": 5,
+    "ap_id": 1,
+    "bairro_id": 11,
+    "sede_lat": -22.91388494999904,
+    "sede_lon": -43.212902054560274
+  }
+]

@@ -1,0 +1,41 @@
+# --- Web / API ---
+fastapi>=0.115
+uvicorn[standard]>=0.32
+python-multipart>=0.0.20
+pydantic>=2.10
+pydantic-settings>=2.7
+
+# --- Banco ---
+sqlmodel>=0.0.22
+SQLAlchemy>=2.0
+alembic>=1.14
+
+# --- Dados ---
+pandas>=2.2
+pyarrow>=18.0
+numpy>=1.26
+scikit-learn>=1.5
+
+# --- LLM / RAG ---
+anthropic>=0.40
+chromadb>=0.5
+sentence-transformers>=3.3
+
+# --- STT ---
+faster-whisper>=1.1
+
+# --- PDF (indexação de manuais para RAG) ---
+pypdf>=5.1
+pdfplumber>=0.11
+
+# --- Auth / utilitários ---
+python-jose[cryptography]>=3.3
+passlib[bcrypt]>=1.7
+python-dotenv>=1.0
+structlog>=24.4
+
+# --- Dev / testes ---
+pytest>=8.3
+pytest-asyncio>=0.24
+httpx>=0.28
+ruff>=0.8

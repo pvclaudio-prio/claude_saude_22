@@ -1,0 +1,3858 @@
+{
+  "pacientes": [
+    {
+      "paciente_id": 34397,
+      "lat": -22.935897820700895,
+      "lon": -43.247924386890794,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Vinho-fb29"
+    },
+    {
+      "paciente_id": 29368,
+      "lat": -22.934354229052417,
+      "lon": -43.25672807001347,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Dourado-24f4"
+    },
+    {
+      "paciente_id": 97768,
+      "lat": -22.912990705162663,
+      "lon": -43.25881495533089,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Jaguatirica-Oliva-f970"
+    },
+    {
+      "paciente_id": 97610,
+      "lat": -22.93051247326376,
+      "lon": -43.26544512506014,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Areia-efdb"
+    },
+    {
+      "paciente_id": 96867,
+      "lat": -22.912692587242393,
+      "lon": -43.21464367881084,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Bege-c98d"
+    },
+    {
+      "paciente_id": 96369,
+      "lat": -22.91478242854657,
+      "lon": -43.21337100472395,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Coral-acc2"
+    },
+    {
+      "paciente_id": 93299,
+      "lat": -22.93037183915187,
+      "lon": -43.24317954512632,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Turquesa-7d77"
+    },
+    {
+      "paciente_id": 91859,
+      "lat": -22.928847834504385,
+      "lon": -43.26547559966629,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Turquesa-d462"
+    },
+    {
+      "paciente_id": 91641,
+      "lat": -22.935469495101017,
+      "lon": -43.25986242591399,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Dourado-384f"
+    },
+    {
+      "paciente_id": 90520,
+      "lat": -22.917053607102936,
+      "lon": -43.244595365098846,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Rosé-3abe"
+    },
+    {
+      "paciente_id": 89420,
+      "lat": -22.93165690883704,
+      "lon": -43.22759757276419,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Âmbar-433a"
+    },
+    {
+      "paciente_id": 89410,
+      "lat": -22.931568044217073,
+      "lon": -43.22764792160953,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Dourado-ade5"
+    },
+    {
+      "paciente_id": 89331,
+      "lat": -22.916351983309436,
+      "lon": -43.256822737233136,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Lima-ed99"
+    },
+    {
+      "paciente_id": 88295,
+      "lat": -22.871078834925175,
+      "lon": -43.303207043261224,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Dourado-6a2b"
+    },
+    {
+      "paciente_id": 88109,
+      "lat": -22.92081077508068,
+      "lon": -43.2666950288786,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Safira-b06c"
+    },
+    {
+      "paciente_id": 87761,
+      "lat": -22.92856518898174,
+      "lon": -43.23329357145301,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Turquesa-d3fb"
+    },
+    {
+      "paciente_id": 87439,
+      "lat": -22.914180684966073,
+      "lon": -43.25394522229401,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Azul-70d2"
+    },
+    {
+      "paciente_id": 87379,
+      "lat": -22.91356994879852,
+      "lon": -43.25320492794753,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Magenta-3d87"
+    },
+    {
+      "paciente_id": 87321,
+      "lat": -22.91389596784527,
+      "lon": -43.254606666392846,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Magenta-fdc1"
+    },
+    {
+      "paciente_id": 87252,
+      "lat": -22.91466312991192,
+      "lon": -43.25527355396675,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Turquesa-736c"
+    },
+    {
+      "paciente_id": 87202,
+      "lat": -22.914032859989742,
+      "lon": -43.248808670817894,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Oliva-85f5"
+    },
+    {
+      "paciente_id": 87144,
+      "lat": -22.93949235627305,
+      "lon": -43.251507119881495,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Lima-c23d"
+    },
+    {
+      "paciente_id": 87042,
+      "lat": -22.940994939246064,
+      "lon": -43.25356182773875,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Turquesa-2845"
+    },
+    {
+      "paciente_id": 87005,
+      "lat": -22.941542516012483,
+      "lon": -43.253981662099335,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Verde-4826"
+    },
+    {
+      "paciente_id": 86188,
+      "lat": -22.90923438502932,
+      "lon": -43.238083454810535,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Bege-75ed"
+    },
+    {
+      "paciente_id": 86097,
+      "lat": -22.914332453469108,
+      "lon": -43.23184730639653,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Esmeralda-02cb"
+    },
+    {
+      "paciente_id": 86059,
+      "lat": -22.91629804249103,
+      "lon": -43.2311141735999,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Âmbar-f635"
+    },
+    {
+      "paciente_id": 84413,
+      "lat": -22.938585641894857,
+      "lon": -43.249043438820216,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Rubro-06d7"
+    },
+    {
+      "paciente_id": 84393,
+      "lat": -22.939471170806545,
+      "lon": -43.24933625234354,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Esmeralda-4583"
+    },
+    {
+      "paciente_id": 84331,
+      "lat": -22.94023100476986,
+      "lon": -43.243824012955216,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Azul-c870"
+    },
+    {
+      "paciente_id": 84164,
+      "lat": -22.938615109632572,
+      "lon": -43.244105374766946,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Pêssego-92f6"
+    },
+    {
+      "paciente_id": 84074,
+      "lat": -22.93591325888128,
+      "lon": -43.24466867706009,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Azul-41dc"
+    },
+    {
+      "paciente_id": 84047,
+      "lat": -22.939478387524144,
+      "lon": -43.24938353270469,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Ocre-5d04"
+    },
+    {
+      "paciente_id": 84039,
+      "lat": -22.93942065206399,
+      "lon": -43.24975010396052,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Âmbar-e7cb"
+    },
+    {
+      "paciente_id": 84006,
+      "lat": -22.94240234451617,
+      "lon": -43.24289076865614,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Lima-432f"
+    },
+    {
+      "paciente_id": 84005,
+      "lat": -22.94198786701399,
+      "lon": -43.242967421353946,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Jaguatirica-Safira-12fa"
+    },
+    {
+      "paciente_id": 83991,
+      "lat": -22.940608377360977,
+      "lon": -43.2410811425095,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Turquesa-255e"
+    },
+    {
+      "paciente_id": 83902,
+      "lat": -22.93894246493533,
+      "lon": -43.25154483391401,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Ocre-b343"
+    },
+    {
+      "paciente_id": 83799,
+      "lat": -22.94105008165058,
+      "lon": -43.25304381629858,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Boto-Areia-11e4"
+    },
+    {
+      "paciente_id": 83759,
+      "lat": -22.941085556647916,
+      "lon": -43.25391198388825,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Rubro-3923"
+    },
+    {
+      "paciente_id": 83712,
+      "lat": -22.92728664366382,
+      "lon": -43.25207822040497,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Rosé-4483"
+    },
+    {
+      "paciente_id": 83673,
+      "lat": -22.939639239355383,
+      "lon": -43.2518168313265,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Bege-07c3"
+    },
+    {
+      "paciente_id": 83638,
+      "lat": -22.93939265191237,
+      "lon": -43.251633705418925,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Ciano-f2eb"
+    },
+    {
+      "paciente_id": 83570,
+      "lat": -22.915679190464267,
+      "lon": -43.24046103006491,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Bege-f88f"
+    },
+    {
+      "paciente_id": 83393,
+      "lat": -22.926510336538342,
+      "lon": -43.2620357609389,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Dourado-29df"
+    },
+    {
+      "paciente_id": 83331,
+      "lat": -22.972342884770946,
+      "lon": -43.28401141378985,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Areia-062c"
+    },
+    {
+      "paciente_id": 83206,
+      "lat": -22.975083508799273,
+      "lon": -43.28440425366068,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Areia-ae6a"
+    },
+    {
+      "paciente_id": 83109,
+      "lat": -22.96051340523908,
+      "lon": -43.272661662234626,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Veado-Âmbar-cbdf"
+    },
+    {
+      "paciente_id": 83101,
+      "lat": -22.97610117814308,
+      "lon": -43.2834910884486,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Dourado-a461"
+    },
+    {
+      "paciente_id": 83031,
+      "lat": -22.918301551064,
+      "lon": -43.37010096868968,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Rosé-6e1e"
+    },
+    {
+      "paciente_id": 82954,
+      "lat": -22.976988601798748,
+      "lon": -43.28255582660958,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Rubro-ec73"
+    },
+    {
+      "paciente_id": 82868,
+      "lat": -22.912446595678343,
+      "lon": -43.24907951934837,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Magenta-5c24"
+    },
+    {
+      "paciente_id": 82745,
+      "lat": -22.91428556452066,
+      "lon": -43.26054613406183,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Coral-719b"
+    },
+    {
+      "paciente_id": 82143,
+      "lat": -22.921700683286176,
+      "lon": -43.22217489578153,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Vinho-8213"
+    },
+    {
+      "paciente_id": 81384,
+      "lat": -22.921490369759436,
+      "lon": -43.23824446314908,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Dourado-e8a6"
+    },
+    {
+      "paciente_id": 81238,
+      "lat": -22.923330323230072,
+      "lon": -43.23887168399601,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Quati-Ocre-e315"
+    },
+    {
+      "paciente_id": 80076,
+      "lat": -22.92417675239256,
+      "lon": -43.220618626477616,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Areia-a8a3"
+    },
+    {
+      "paciente_id": 80010,
+      "lat": -22.9233419708837,
+      "lon": -43.21825634959115,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Rubro-b4d3"
+    },
+    {
+      "paciente_id": 79892,
+      "lat": -22.920344042825324,
+      "lon": -43.21748359317502,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Jaguatirica-Rosé-6166"
+    },
+    {
+      "paciente_id": 79758,
+      "lat": -22.923792225477143,
+      "lon": -43.21809898210001,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Lima-67ee"
+    },
+    {
+      "paciente_id": 79565,
+      "lat": -22.92485096743751,
+      "lon": -43.219015343320464,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Safira-7af6"
+    },
+    {
+      "paciente_id": 78552,
+      "lat": -22.916675044294045,
+      "lon": -43.24925181381856,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Bege-3d39"
+    },
+    {
+      "paciente_id": 78137,
+      "lat": -22.940290234791775,
+      "lon": -43.25229629766394,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Coral-a6f6"
+    },
+    {
+      "paciente_id": 77987,
+      "lat": -22.940804835550832,
+      "lon": -43.25447849922688,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Safira-fc7b"
+    },
+    {
+      "paciente_id": 77966,
+      "lat": -22.913566618318505,
+      "lon": -43.25307806504784,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Indigo-7399"
+    },
+    {
+      "paciente_id": 77927,
+      "lat": -22.91243221698705,
+      "lon": -43.25125198686269,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Esmeralda-5cdf"
+    },
+    {
+      "paciente_id": 77916,
+      "lat": -22.91262411021551,
+      "lon": -43.2493560462025,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Esmeralda-0363"
+    },
+    {
+      "paciente_id": 77841,
+      "lat": -22.91272767323271,
+      "lon": -43.248399716854514,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Quati-Verde-cb59"
+    },
+    {
+      "paciente_id": 77818,
+      "lat": -22.913063871549276,
+      "lon": -43.25077046745688,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Boto-Safira-0cab"
+    },
+    {
+      "paciente_id": 77792,
+      "lat": -22.912035584104327,
+      "lon": -43.2477857900856,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Esmeralda-acc3"
+    },
+    {
+      "paciente_id": 77786,
+      "lat": -22.914042617850388,
+      "lon": -43.25193391052445,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Ocre-886f"
+    },
+    {
+      "paciente_id": 75278,
+      "lat": -22.912017693627835,
+      "lon": -43.209956311044046,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Âmbar-2463"
+    },
+    {
+      "paciente_id": 75111,
+      "lat": -22.914151582635174,
+      "lon": -43.21253845373082,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Dourado-e190"
+    },
+    {
+      "paciente_id": 74900,
+      "lat": -22.916123798464245,
+      "lon": -43.24970968382994,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Coral-2341"
+    },
+    {
+      "paciente_id": 74597,
+      "lat": -22.913458051409105,
+      "lon": -43.248480180337005,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Bege-5f3d"
+    },
+    {
+      "paciente_id": 73828,
+      "lat": -22.97741103638388,
+      "lon": -43.29162670192966,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Areia-0232"
+    },
+    {
+      "paciente_id": 73667,
+      "lat": -22.979074901618137,
+      "lon": -43.2917614654195,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Lima-7672"
+    },
+    {
+      "paciente_id": 73609,
+      "lat": -22.981526873227256,
+      "lon": -43.29520699746404,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Verde-92bd"
+    },
+    {
+      "paciente_id": 73379,
+      "lat": -22.927995050027704,
+      "lon": -43.22840273597782,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Coral-cf96"
+    },
+    {
+      "paciente_id": 73373,
+      "lat": -22.92960500744902,
+      "lon": -43.227284883927695,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Quati-Dourado-557e"
+    },
+    {
+      "paciente_id": 73366,
+      "lat": -22.929124418338105,
+      "lon": -43.22549613333998,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Rosé-6ddb"
+    },
+    {
+      "paciente_id": 73358,
+      "lat": -22.928706554859136,
+      "lon": -43.226193210375754,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Lima-3474"
+    },
+    {
+      "paciente_id": 73296,
+      "lat": -22.929877164659658,
+      "lon": -43.22729044963362,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Oliva-5a8c"
+    },
+    {
+      "paciente_id": 73270,
+      "lat": -22.9302468717898,
+      "lon": -43.227349058071994,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Vinho-c798"
+    },
+    {
+      "paciente_id": 73255,
+      "lat": -22.913885655918666,
+      "lon": -43.25892275339746,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Quati-Esmeralda-f00f"
+    },
+    {
+      "paciente_id": 73116,
+      "lat": -22.914290419162516,
+      "lon": -43.259779761832064,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Verde-7cea"
+    },
+    {
+      "paciente_id": 73095,
+      "lat": -22.91372137789951,
+      "lon": -43.24649566870578,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Pêssego-b6f6"
+    },
+    {
+      "paciente_id": 66824,
+      "lat": -22.914073928283912,
+      "lon": -43.25619687186825,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Ciano-a37a"
+    },
+    {
+      "paciente_id": 37202,
+      "lat": -22.912971238468188,
+      "lon": -43.259197524694166,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Rubro-e913"
+    },
+    {
+      "paciente_id": 37089,
+      "lat": -22.91208181302836,
+      "lon": -43.25043094780536,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Indigo-23ad"
+    },
+    {
+      "paciente_id": 30259,
+      "lat": -22.927176812089613,
+      "lon": -43.232752771407704,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Veado-Areia-d4f1"
+    },
+    {
+      "paciente_id": 29731,
+      "lat": -22.93392630462665,
+      "lon": -43.25848957829064,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Veado-Lima-57f1"
+    },
+    {
+      "paciente_id": 29346,
+      "lat": -22.932505153395244,
+      "lon": -43.25351138611175,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Pêssego-0c2a"
+    },
+    {
+      "paciente_id": 29338,
+      "lat": -22.920570960424648,
+      "lon": -43.25559761961477,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Coral-a026"
+    },
+    {
+      "paciente_id": 27283,
+      "lat": -22.92458208225234,
+      "lon": -43.25977910748076,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Verde-45e7"
+    },
+    {
+      "paciente_id": 27164,
+      "lat": -22.92975499282355,
+      "lon": -43.22850862347824,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Boto-Esmeralda-cf97"
+    },
+    {
+      "paciente_id": 24554,
+      "lat": -22.918319521911496,
+      "lon": -43.264395872436104,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Magenta-a065"
+    },
+    {
+      "paciente_id": 23559,
+      "lat": -22.926590201321137,
+      "lon": -43.254692790673595,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Âmbar-9a0e"
+    },
+    {
+      "paciente_id": 23443,
+      "lat": -22.94003064792889,
+      "lon": -43.25206820789248,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Dourado-15fd"
+    },
+    {
+      "paciente_id": 19611,
+      "lat": -22.939288182844557,
+      "lon": -43.24260038575099,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Jaguatirica-Ocre-1545"
+    },
+    {
+      "paciente_id": 19336,
+      "lat": -22.942551255914065,
+      "lon": -43.24216237888309,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Âmbar-ca7c"
+    },
+    {
+      "paciente_id": 18709,
+      "lat": -22.94202285828522,
+      "lon": -43.24209206415405,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Veado-Ciano-3866"
+    },
+    {
+      "paciente_id": 18546,
+      "lat": -22.943253518368117,
+      "lon": -43.24323652562036,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Areia-9d3e"
+    },
+    {
+      "paciente_id": 18245,
+      "lat": -22.939349218834177,
+      "lon": -43.25125688019106,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Dourado-bb79"
+    },
+    {
+      "paciente_id": 17880,
+      "lat": -22.93942476276537,
+      "lon": -43.25149760847067,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Magenta-63b0"
+    },
+    {
+      "paciente_id": 17520,
+      "lat": -22.94226507851197,
+      "lon": -43.253639610480334,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Rosé-cb99"
+    },
+    {
+      "paciente_id": 16403,
+      "lat": -22.96592347673104,
+      "lon": -43.278747191594825,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Ocre-80df"
+    },
+    {
+      "paciente_id": 14426,
+      "lat": -22.907419548150973,
+      "lon": -43.242714152421065,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Vinho-63aa"
+    },
+    {
+      "paciente_id": 13073,
+      "lat": -22.845622840613988,
+      "lon": -43.326149961920585,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Bege-8776"
+    },
+    {
+      "paciente_id": 10094,
+      "lat": -22.941023367149253,
+      "lon": -43.25428662286725,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Rosé-c241"
+    },
+    {
+      "paciente_id": 9520,
+      "lat": -22.91460374372819,
+      "lon": -43.25227841996537,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Dourado-77e7"
+    },
+    {
+      "paciente_id": 4106,
+      "lat": -22.93004728927377,
+      "lon": -43.22666959178997,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Areia-4d4f"
+    },
+    {
+      "paciente_id": 3518,
+      "lat": -22.913626801019973,
+      "lon": -43.2483050283021,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Verde-ff0c"
+    },
+    {
+      "paciente_id": 2939,
+      "lat": -22.914470033729824,
+      "lon": -43.257669026185184,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Rubro-b0b7"
+    },
+    {
+      "paciente_id": 97822,
+      "lat": -22.91442313886723,
+      "lon": -43.259118442885885,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Azul-3457"
+    },
+    {
+      "paciente_id": 97666,
+      "lat": -22.925916137257595,
+      "lon": -43.26277275939868,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Oliva-59f2"
+    },
+    {
+      "paciente_id": 97586,
+      "lat": -22.92563409568803,
+      "lon": -43.26552920563056,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Azul-3efd"
+    },
+    {
+      "paciente_id": 97296,
+      "lat": -22.935945936264723,
+      "lon": -43.262144542628974,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Oliva-73f7"
+    },
+    {
+      "paciente_id": 97270,
+      "lat": -22.93504470636419,
+      "lon": -43.25893591494298,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Rubro-6910"
+    },
+    {
+      "paciente_id": 97060,
+      "lat": -22.93682531905137,
+      "lon": -43.24737626363352,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Ocre-c144"
+    },
+    {
+      "paciente_id": 97033,
+      "lat": -22.936254266929232,
+      "lon": -43.246783219208965,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Turquesa-742d"
+    },
+    {
+      "paciente_id": 96974,
+      "lat": -22.913306954656235,
+      "lon": -43.21388877981305,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Âmbar-6ffd"
+    },
+    {
+      "paciente_id": 96863,
+      "lat": -22.916141425160625,
+      "lon": -43.21355578899466,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Veado-Coral-1956"
+    },
+    {
+      "paciente_id": 96833,
+      "lat": -22.914930223432183,
+      "lon": -43.213788664590446,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Verde-d258"
+    },
+    {
+      "paciente_id": 96504,
+      "lat": -22.920269833285815,
+      "lon": -43.21042945022461,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Ocre-e392"
+    },
+    {
+      "paciente_id": 95749,
+      "lat": -22.935845301958157,
+      "lon": -43.24415598245905,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Rubro-a5b5"
+    },
+    {
+      "paciente_id": 93933,
+      "lat": -22.924407685155973,
+      "lon": -43.25209937894048,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Veado-Dourado-1e7a"
+    },
+    {
+      "paciente_id": 93650,
+      "lat": -22.92018071494135,
+      "lon": -43.25020938321002,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Verde-2320"
+    },
+    {
+      "paciente_id": 93570,
+      "lat": -22.922165877108284,
+      "lon": -43.25556722820161,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Ocre-4391"
+    },
+    {
+      "paciente_id": 93401,
+      "lat": -22.92916675160944,
+      "lon": -43.243433335907405,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Jaguatirica-Magenta-b365"
+    },
+    {
+      "paciente_id": 92772,
+      "lat": -22.931237596267906,
+      "lon": -43.24243781744459,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Safira-fbf0"
+    },
+    {
+      "paciente_id": 92647,
+      "lat": -22.927073044859448,
+      "lon": -43.246052150522615,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Veado-Areia-aa3e"
+    },
+    {
+      "paciente_id": 91900,
+      "lat": -22.93144171030294,
+      "lon": -43.25581744579947,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Quati-Magenta-f1fc"
+    },
+    {
+      "paciente_id": 91679,
+      "lat": -22.931518907709485,
+      "lon": -43.25636833430369,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Indigo-6d2a"
+    },
+    {
+      "paciente_id": 91099,
+      "lat": -22.918858465701383,
+      "lon": -43.257422864008205,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Lima-48d2"
+    },
+    {
+      "paciente_id": 90922,
+      "lat": -22.916680252718855,
+      "lon": -43.24570522564963,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Jaguatirica-Bege-8885"
+    },
+    {
+      "paciente_id": 89526,
+      "lat": -22.930107477374342,
+      "lon": -43.22821357047635,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Rosé-1fd5"
+    },
+    {
+      "paciente_id": 89456,
+      "lat": -22.9298740788094,
+      "lon": -43.22820606729238,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Boto-Rubro-b1ab"
+    },
+    {
+      "paciente_id": 89433,
+      "lat": -22.93293583960496,
+      "lon": -43.233570078343384,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Turquesa-7a45"
+    },
+    {
+      "paciente_id": 89431,
+      "lat": -22.92995027411645,
+      "lon": -43.22905629699995,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Veado-Bege-7dcc"
+    },
+    {
+      "paciente_id": 89370,
+      "lat": -22.92976862407303,
+      "lon": -43.22401700115232,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Rubro-a4ca"
+    },
+    {
+      "paciente_id": 89136,
+      "lat": -22.92467190287343,
+      "lon": -43.2504324035813,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Jaguatirica-Rosé-0a76"
+    },
+    {
+      "paciente_id": 88688,
+      "lat": -22.917533268087247,
+      "lon": -43.24988060987871,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Esmeralda-f70b"
+    },
+    {
+      "paciente_id": 88389,
+      "lat": -22.91709042238709,
+      "lon": -43.2517051071404,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Rosé-859c"
+    },
+    {
+      "paciente_id": 88361,
+      "lat": -22.916671029764693,
+      "lon": -43.2423139781077,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Magenta-6dad"
+    },
+    {
+      "paciente_id": 88246,
+      "lat": -22.91686599277012,
+      "lon": -43.25702348617904,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Ciano-671a"
+    },
+    {
+      "paciente_id": 88208,
+      "lat": -22.91739540196351,
+      "lon": -43.24490393051416,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Esmeralda-71c6"
+    },
+    {
+      "paciente_id": 88181,
+      "lat": -22.916757116512215,
+      "lon": -43.25473697717566,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Quati-Lima-1806"
+    },
+    {
+      "paciente_id": 87970,
+      "lat": -22.91846205846166,
+      "lon": -43.25888459529607,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Ocre-63d8"
+    },
+    {
+      "paciente_id": 87940,
+      "lat": -22.921957877434295,
+      "lon": -43.26704171377293,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Coral-b0dc"
+    },
+    {
+      "paciente_id": 87914,
+      "lat": -22.918934890206597,
+      "lon": -43.26608277104099,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Esmeralda-a12d"
+    },
+    {
+      "paciente_id": 87834,
+      "lat": -22.91622879417477,
+      "lon": -43.25636740876206,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Vinho-19f6"
+    },
+    {
+      "paciente_id": 87795,
+      "lat": -22.91880349005117,
+      "lon": -43.2639395490196,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Dourado-8751"
+    },
+    {
+      "paciente_id": 87722,
+      "lat": -22.9177411728658,
+      "lon": -43.266849563841795,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Dourado-8c0d"
+    },
+    {
+      "paciente_id": 87720,
+      "lat": -22.917858314248303,
+      "lon": -43.26115371138176,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Jaguatirica-Ciano-3c3b"
+    },
+    {
+      "paciente_id": 87645,
+      "lat": -22.924371188476503,
+      "lon": -43.2541945822535,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Boto-Coral-1221"
+    },
+    {
+      "paciente_id": 87633,
+      "lat": -22.91954990007696,
+      "lon": -43.26545319556906,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Jaguatirica-Âmbar-82b2"
+    },
+    {
+      "paciente_id": 87592,
+      "lat": -22.91924219271288,
+      "lon": -43.26103699345817,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Oliva-2e34"
+    },
+    {
+      "paciente_id": 87359,
+      "lat": -22.913420933954853,
+      "lon": -43.25427576454627,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Ciano-a807"
+    },
+    {
+      "paciente_id": 87315,
+      "lat": -22.915703955850788,
+      "lon": -43.25493570178192,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Boto-Coral-a5b9"
+    },
+    {
+      "paciente_id": 87275,
+      "lat": -22.912899402554235,
+      "lon": -43.248235550735075,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Dourado-5cb3"
+    },
+    {
+      "paciente_id": 87272,
+      "lat": -22.91333431058584,
+      "lon": -43.255669740993405,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Quati-Lima-9526"
+    },
+    {
+      "paciente_id": 87268,
+      "lat": -22.91611224702179,
+      "lon": -43.25448530680058,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Lima-4384"
+    },
+    {
+      "paciente_id": 87265,
+      "lat": -22.915220418797407,
+      "lon": -43.253967444934574,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Jaguatirica-Rubro-f6ae"
+    },
+    {
+      "paciente_id": 87251,
+      "lat": -22.913561073844125,
+      "lon": -43.2484613710324,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Pêssego-7a5b"
+    },
+    {
+      "paciente_id": 87199,
+      "lat": -22.91462501364057,
+      "lon": -43.25416386866146,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Verde-9f5d"
+    },
+    {
+      "paciente_id": 87169,
+      "lat": -22.943731193256973,
+      "lon": -43.25467485647792,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Esmeralda-600c"
+    },
+    {
+      "paciente_id": 87122,
+      "lat": -22.93936681229983,
+      "lon": -43.25220253817613,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Verde-3cc6"
+    },
+    {
+      "paciente_id": 87051,
+      "lat": -22.940544225466247,
+      "lon": -43.25464019911091,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Pêssego-4f01"
+    },
+    {
+      "paciente_id": 86993,
+      "lat": -22.940153667763383,
+      "lon": -43.25232649084733,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Esmeralda-b16e"
+    },
+    {
+      "paciente_id": 86749,
+      "lat": -22.913845072483394,
+      "lon": -43.225648910837705,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Oliva-adf2"
+    },
+    {
+      "paciente_id": 86319,
+      "lat": -22.908168097872515,
+      "lon": -43.23741995859223,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Verde-039d"
+    },
+    {
+      "paciente_id": 86296,
+      "lat": -22.914901599345782,
+      "lon": -43.234281306505395,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Indigo-39e4"
+    },
+    {
+      "paciente_id": 86206,
+      "lat": -22.9148554306666,
+      "lon": -43.23178916836388,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Veado-Pêssego-3ae6"
+    },
+    {
+      "paciente_id": 86183,
+      "lat": -22.91301122095185,
+      "lon": -43.23162074639265,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Rubro-9c26"
+    },
+    {
+      "paciente_id": 86146,
+      "lat": -22.91480208094391,
+      "lon": -43.233528964712775,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Verde-928d"
+    },
+    {
+      "paciente_id": 86128,
+      "lat": -22.915010677819662,
+      "lon": -43.235312049482275,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Veado-Ocre-5ef5"
+    },
+    {
+      "paciente_id": 86103,
+      "lat": -22.914958117842183,
+      "lon": -43.23372305783812,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Verde-dd02"
+    },
+    {
+      "paciente_id": 85978,
+      "lat": -22.914516331548334,
+      "lon": -43.233673443610385,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Bege-5fc2"
+    },
+    {
+      "paciente_id": 85892,
+      "lat": -22.914025575923635,
+      "lon": -43.231678769672,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Quati-Verde-e684"
+    },
+    {
+      "paciente_id": 85841,
+      "lat": -22.91441694828461,
+      "lon": -43.233579472233366,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Boto-Rubro-1c36"
+    },
+    {
+      "paciente_id": 84852,
+      "lat": -22.92139814378772,
+      "lon": -43.21727974003199,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Ocre-d710"
+    },
+    {
+      "paciente_id": 84449,
+      "lat": -22.94100454356367,
+      "lon": -43.24437533264526,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Dourado-0890"
+    },
+    {
+      "paciente_id": 84362,
+      "lat": -22.93830837759679,
+      "lon": -43.24893181029047,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Ciano-1f85"
+    },
+    {
+      "paciente_id": 84301,
+      "lat": -22.941438519472335,
+      "lon": -43.24424087199671,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Safira-5628"
+    },
+    {
+      "paciente_id": 84262,
+      "lat": -22.94147618885049,
+      "lon": -43.244548093808795,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Quati-Turquesa-e371"
+    },
+    {
+      "paciente_id": 84259,
+      "lat": -22.94028788817265,
+      "lon": -43.244182060853475,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Safira-53e4"
+    },
+    {
+      "paciente_id": 84245,
+      "lat": -22.94177536369433,
+      "lon": -43.2431377268628,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Coral-2bec"
+    },
+    {
+      "paciente_id": 84243,
+      "lat": -22.93848334147424,
+      "lon": -43.24864394397646,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Bege-06ab"
+    },
+    {
+      "paciente_id": 84181,
+      "lat": -22.929306012955333,
+      "lon": -43.26353125544956,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Coral-3447"
+    },
+    {
+      "paciente_id": 84115,
+      "lat": -22.939271044471717,
+      "lon": -43.2491958702096,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Bege-2035"
+    },
+    {
+      "paciente_id": 84111,
+      "lat": -22.942286105690417,
+      "lon": -43.241686835613514,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Esmeralda-a103"
+    },
+    {
+      "paciente_id": 84106,
+      "lat": -22.94282865674521,
+      "lon": -43.243103581261806,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Coral-a9cb"
+    },
+    {
+      "paciente_id": 84091,
+      "lat": -22.942892779635457,
+      "lon": -43.242039721668625,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Coral-4c50"
+    },
+    {
+      "paciente_id": 84080,
+      "lat": -22.9183218405613,
+      "lon": -43.28333478039129,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Rosé-d2b4"
+    },
+    {
+      "paciente_id": 84026,
+      "lat": -22.94148989901504,
+      "lon": -43.24218594098283,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Oliva-37ae"
+    },
+    {
+      "paciente_id": 83988,
+      "lat": -22.94286052914207,
+      "lon": -43.242178602205875,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Azul-d4fa"
+    },
+    {
+      "paciente_id": 83976,
+      "lat": -22.937992781416085,
+      "lon": -43.24888601176062,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Pêssego-21a9"
+    },
+    {
+      "paciente_id": 83969,
+      "lat": -22.942803073271193,
+      "lon": -43.24271049290443,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Coral-5bc8"
+    },
+    {
+      "paciente_id": 83950,
+      "lat": -22.93082647254152,
+      "lon": -43.22692808273756,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Safira-69b2"
+    },
+    {
+      "paciente_id": 83942,
+      "lat": -22.943230418359487,
+      "lon": -43.2431366760603,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Veado-Coral-8c29"
+    },
+    {
+      "paciente_id": 83940,
+      "lat": -22.94133820603861,
+      "lon": -43.241721990185454,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Turquesa-bccf"
+    },
+    {
+      "paciente_id": 83935,
+      "lat": -22.938583750761072,
+      "lon": -43.249836909325005,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Jaguatirica-Rosé-6b4d"
+    },
+    {
+      "paciente_id": 83920,
+      "lat": -22.939939330090816,
+      "lon": -43.241925461702145,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Ciano-9516"
+    },
+    {
+      "paciente_id": 83919,
+      "lat": -22.940749346938468,
+      "lon": -43.24205709092852,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Safira-4d57"
+    },
+    {
+      "paciente_id": 83862,
+      "lat": -22.94153690545087,
+      "lon": -43.253935162683035,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Veado-Areia-534e"
+    },
+    {
+      "paciente_id": 83856,
+      "lat": -22.939491601854588,
+      "lon": -43.25125153904041,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Âmbar-d63c"
+    },
+    {
+      "paciente_id": 83846,
+      "lat": -22.9412536984811,
+      "lon": -43.253175695465515,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Bege-34cc"
+    },
+    {
+      "paciente_id": 83835,
+      "lat": -22.942577110888212,
+      "lon": -43.25380451068807,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Esmeralda-c08d"
+    },
+    {
+      "paciente_id": 83813,
+      "lat": -22.940808355172376,
+      "lon": -43.25343534842863,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Vinho-5d28"
+    },
+    {
+      "paciente_id": 83788,
+      "lat": -22.937624809076944,
+      "lon": -43.248073004185635,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Pêssego-b7f9"
+    },
+    {
+      "paciente_id": 83757,
+      "lat": -22.94075237462995,
+      "lon": -43.2536474458732,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Jaguatirica-Bege-f3ec"
+    },
+    {
+      "paciente_id": 83620,
+      "lat": -22.92955481781962,
+      "lon": -43.25944258929074,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Turquesa-e4f9"
+    },
+    {
+      "paciente_id": 83585,
+      "lat": -22.92330318324788,
+      "lon": -43.25821658811408,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Indigo-b47a"
+    },
+    {
+      "paciente_id": 83520,
+      "lat": -22.927503329524523,
+      "lon": -43.25823167863696,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Magenta-5443"
+    },
+    {
+      "paciente_id": 83245,
+      "lat": -22.97610511113617,
+      "lon": -43.2852460090887,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Bege-8e80"
+    },
+    {
+      "paciente_id": 83030,
+      "lat": -22.97635864103535,
+      "lon": -43.2835277231144,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Sabiá-Vinho-377e"
+    },
+    {
+      "paciente_id": 83003,
+      "lat": -22.97448235945996,
+      "lon": -43.28572210775866,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Areia-f348"
+    },
+    {
+      "paciente_id": 82885,
+      "lat": -22.914963546447552,
+      "lon": -43.25579368046,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Lima-2d18"
+    },
+    {
+      "paciente_id": 82874,
+      "lat": -22.91366718652774,
+      "lon": -43.25924081617642,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Lima-0596"
+    },
+    {
+      "paciente_id": 82846,
+      "lat": -22.91334909483068,
+      "lon": -43.25924461610075,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Âmbar-6d97"
+    },
+    {
+      "paciente_id": 82825,
+      "lat": -22.91424271856365,
+      "lon": -43.258400013040806,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Quati-Lima-2a32"
+    },
+    {
+      "paciente_id": 82561,
+      "lat": -22.92343625669695,
+      "lon": -43.26291488621682,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Verde-628e"
+    },
+    {
+      "paciente_id": 82212,
+      "lat": -22.916965556014222,
+      "lon": -43.21558991577151,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Vinho-ae1d"
+    },
+    {
+      "paciente_id": 82040,
+      "lat": -22.91921684712122,
+      "lon": -43.21761500471834,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Rubro-8973"
+    },
+    {
+      "paciente_id": 81346,
+      "lat": -22.916131452117863,
+      "lon": -43.240881741471355,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Azul-0473"
+    },
+    {
+      "paciente_id": 80713,
+      "lat": -22.971635014515385,
+      "lon": -43.28726472613622,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Esmeralda-243f"
+    },
+    {
+      "paciente_id": 80680,
+      "lat": -22.97218945283574,
+      "lon": -43.28709165371152,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Quati-Âmbar-f0d5"
+    },
+    {
+      "paciente_id": 80151,
+      "lat": -22.92508897496316,
+      "lon": -43.22117356123859,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Vinho-c687"
+    },
+    {
+      "paciente_id": 80135,
+      "lat": -22.923559400229657,
+      "lon": -43.22044599962618,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Rubro-99cc"
+    },
+    {
+      "paciente_id": 80128,
+      "lat": -22.923178483782415,
+      "lon": -43.217720130655486,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Indigo-d900"
+    },
+    {
+      "paciente_id": 80114,
+      "lat": -22.92017744227572,
+      "lon": -43.2179621556598,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Verde-80a9"
+    },
+    {
+      "paciente_id": 80035,
+      "lat": -22.926814062545816,
+      "lon": -43.221227357871285,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Azul-6244"
+    },
+    {
+      "paciente_id": 80029,
+      "lat": -22.924979011484822,
+      "lon": -43.22325804667597,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Safira-7b30"
+    },
+    {
+      "paciente_id": 80027,
+      "lat": -22.923143002996905,
+      "lon": -43.21982963044716,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Quati-Oliva-a864"
+    },
+    {
+      "paciente_id": 80016,
+      "lat": -22.920139084408717,
+      "lon": -43.2173294669453,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Rosé-74f0"
+    },
+    {
+      "paciente_id": 80009,
+      "lat": -22.923317773221036,
+      "lon": -43.220269095325214,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Dourado-f641"
+    },
+    {
+      "paciente_id": 79959,
+      "lat": -22.92096434884083,
+      "lon": -43.21671701511101,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Ciano-f942"
+    },
+    {
+      "paciente_id": 79936,
+      "lat": -22.92296905330203,
+      "lon": -43.21867349520361,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Rubro-b8c2"
+    },
+    {
+      "paciente_id": 79925,
+      "lat": -22.923700142593137,
+      "lon": -43.21835866836822,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Magenta-c462"
+    },
+    {
+      "paciente_id": 79906,
+      "lat": -22.921430014690113,
+      "lon": -43.21744278342756,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Pêssego-5868"
+    },
+    {
+      "paciente_id": 79844,
+      "lat": -22.92458171121871,
+      "lon": -43.22357752734067,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Boto-Azul-68d3"
+    },
+    {
+      "paciente_id": 79825,
+      "lat": -22.9227426844813,
+      "lon": -43.216647799303026,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Magenta-ba8a"
+    },
+    {
+      "paciente_id": 79813,
+      "lat": -22.9229368992972,
+      "lon": -43.21758620437325,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Verde-96a8"
+    },
+    {
+      "paciente_id": 79787,
+      "lat": -22.92745939814935,
+      "lon": -43.2206044155403,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Vinho-6f3b"
+    },
+    {
+      "paciente_id": 79784,
+      "lat": -22.926077474489237,
+      "lon": -43.2199448494544,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Oliva-9a0e"
+    },
+    {
+      "paciente_id": 79735,
+      "lat": -22.920771393390517,
+      "lon": -43.218368016624446,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Vinho-0f01"
+    },
+    {
+      "paciente_id": 79713,
+      "lat": -22.92242541594394,
+      "lon": -43.21707777565298,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Dourado-576c"
+    },
+    {
+      "paciente_id": 79622,
+      "lat": -22.92667106333035,
+      "lon": -43.222695339090954,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Verde-21bd"
+    },
+    {
+      "paciente_id": 79602,
+      "lat": -22.924517000335467,
+      "lon": -43.21734886986802,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Âmbar-2b1b"
+    },
+    {
+      "paciente_id": 79557,
+      "lat": -22.924930488610404,
+      "lon": -43.22034250139693,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Oliva-7a99"
+    },
+    {
+      "paciente_id": 79556,
+      "lat": -22.91992814459714,
+      "lon": -43.21599317333334,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Bege-598d"
+    },
+    {
+      "paciente_id": 79290,
+      "lat": -22.929376972226272,
+      "lon": -43.228585773358205,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Jaguatirica-Vinho-805e"
+    },
+    {
+      "paciente_id": 79287,
+      "lat": -22.92842266052765,
+      "lon": -43.22826061350855,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Azul-db4c"
+    },
+    {
+      "paciente_id": 79195,
+      "lat": -22.9268989595784,
+      "lon": -43.22675321320712,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Magenta-94f7"
+    },
+    {
+      "paciente_id": 78996,
+      "lat": -22.926445295860127,
+      "lon": -43.22825371891122,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Coral-d892"
+    },
+    {
+      "paciente_id": 78843,
+      "lat": -22.924813367380665,
+      "lon": -43.22936326042804,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Rubro-61ed"
+    },
+    {
+      "paciente_id": 78837,
+      "lat": -22.92039093192844,
+      "lon": -43.24240501044053,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Vinho-239c"
+    },
+    {
+      "paciente_id": 78729,
+      "lat": -22.91614815095004,
+      "lon": -43.24045940363733,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Safira-2df2"
+    },
+    {
+      "paciente_id": 78588,
+      "lat": -22.920105719539503,
+      "lon": -43.24089108185316,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Âmbar-0125"
+    },
+    {
+      "paciente_id": 78185,
+      "lat": -22.94158791934709,
+      "lon": -43.25317529634518,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Lima-2f9f"
+    },
+    {
+      "paciente_id": 78115,
+      "lat": -22.943256228796905,
+      "lon": -43.25595414341375,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Areia-1b4a"
+    },
+    {
+      "paciente_id": 78106,
+      "lat": -22.940843625381124,
+      "lon": -43.253569232578286,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Quati-Pêssego-aa1c"
+    },
+    {
+      "paciente_id": 78025,
+      "lat": -22.91230368088981,
+      "lon": -43.22592345304452,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Rosé-4dbf"
+    },
+    {
+      "paciente_id": 77985,
+      "lat": -22.939261465886837,
+      "lon": -43.252690642784934,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Safira-113f"
+    },
+    {
+      "paciente_id": 77977,
+      "lat": -22.912753243618816,
+      "lon": -43.249742695820515,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Bege-58f7"
+    },
+    {
+      "paciente_id": 77971,
+      "lat": -22.91471416231401,
+      "lon": -43.25257208597993,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Pêssego-8d5f"
+    },
+    {
+      "paciente_id": 77957,
+      "lat": -22.91299389399313,
+      "lon": -43.24990364440419,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Magenta-59e6"
+    },
+    {
+      "paciente_id": 77934,
+      "lat": -22.91328393107142,
+      "lon": -43.24998647949799,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Ciano-bd49"
+    },
+    {
+      "paciente_id": 77933,
+      "lat": -22.913210933169644,
+      "lon": -43.2560314889333,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Azul-448e"
+    },
+    {
+      "paciente_id": 77909,
+      "lat": -22.911720393851212,
+      "lon": -43.25036371614484,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Veado-Rosé-44dd"
+    },
+    {
+      "paciente_id": 77907,
+      "lat": -22.913274748362713,
+      "lon": -43.25043586841241,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Lima-5704"
+    },
+    {
+      "paciente_id": 77882,
+      "lat": -22.911814775245887,
+      "lon": -43.25067703127543,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Boto-Pêssego-7c0c"
+    },
+    {
+      "paciente_id": 77872,
+      "lat": -22.91237700851095,
+      "lon": -43.24993268029819,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Safira-42af"
+    },
+    {
+      "paciente_id": 77844,
+      "lat": -22.911594803511537,
+      "lon": -43.250230577761215,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Oliva-7fdd"
+    },
+    {
+      "paciente_id": 77838,
+      "lat": -22.912480321169134,
+      "lon": -43.2495402354425,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Curió-Rubro-bdca"
+    },
+    {
+      "paciente_id": 77835,
+      "lat": -22.912994528192716,
+      "lon": -43.25154870840909,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Rosé-1ea9"
+    },
+    {
+      "paciente_id": 77796,
+      "lat": -22.912542936523373,
+      "lon": -43.249488736865146,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Lagartixa-Vinho-3b09"
+    },
+    {
+      "paciente_id": 77793,
+      "lat": -22.912332138630585,
+      "lon": -43.24942777180704,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Lima-9de1"
+    },
+    {
+      "paciente_id": 77206,
+      "lat": -22.940009939603417,
+      "lon": -43.25228183260753,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Jaguatirica-Azul-adfd"
+    },
+    {
+      "paciente_id": 77200,
+      "lat": -22.94057176931397,
+      "lon": -43.251146003939525,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Ciano-911a"
+    },
+    {
+      "paciente_id": 75831,
+      "lat": -22.923491792739934,
+      "lon": -43.228137852071434,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Lima-f7c8"
+    },
+    {
+      "paciente_id": 75814,
+      "lat": -22.91758744856584,
+      "lon": -43.22648159585019,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Veado-Magenta-fa95"
+    },
+    {
+      "paciente_id": 75649,
+      "lat": -22.912389675581288,
+      "lon": -43.21099037109865,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Ocre-fbd5"
+    },
+    {
+      "paciente_id": 75457,
+      "lat": -22.913229710942023,
+      "lon": -43.213084378048144,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Lima-ded1"
+    },
+    {
+      "paciente_id": 75237,
+      "lat": -22.91528182012165,
+      "lon": -43.21249969727659,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Marreca-Lima-003a"
+    },
+    {
+      "paciente_id": 73597,
+      "lat": -22.983888224799937,
+      "lon": -43.299517372617245,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Ciano-05c8"
+    },
+    {
+      "paciente_id": 73577,
+      "lat": -22.980445291529367,
+      "lon": -43.29334868638656,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Pêssego-04c0"
+    },
+    {
+      "paciente_id": 73514,
+      "lat": -22.9812874144576,
+      "lon": -43.29971192494791,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Verde-5c75"
+    },
+    {
+      "paciente_id": 73376,
+      "lat": -22.929801354285143,
+      "lon": -43.225131266805725,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Quati-Rubro-4255"
+    },
+    {
+      "paciente_id": 73349,
+      "lat": -22.929592035047975,
+      "lon": -43.22749739313181,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Turquesa-e1a7"
+    },
+    {
+      "paciente_id": 73322,
+      "lat": -22.924229018104104,
+      "lon": -43.2193689230692,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Ocre-beb5"
+    },
+    {
+      "paciente_id": 73321,
+      "lat": -22.928043886869055,
+      "lon": -43.22377369483885,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Onça-Bege-9fc0"
+    },
+    {
+      "paciente_id": 73280,
+      "lat": -22.929520488893058,
+      "lon": -43.22661959544063,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Carcará-Turquesa-6b3d"
+    },
+    {
+      "paciente_id": 73200,
+      "lat": -22.913272758820707,
+      "lon": -43.258915468253754,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Bege-1f4e"
+    },
+    {
+      "paciente_id": 73164,
+      "lat": -22.91249004712963,
+      "lon": -43.24936544157143,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Inhambu-Turquesa-5846"
+    },
+    {
+      "paciente_id": 35796,
+      "lat": -22.930617044691775,
+      "lon": -43.26464507859395,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Siriri-Ocre-26c5"
+    },
+    {
+      "paciente_id": 31274,
+      "lat": -22.924765862415143,
+      "lon": -43.24921913688783,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tucano-Azul-103c"
+    },
+    {
+      "paciente_id": 23186,
+      "lat": -22.939848224476123,
+      "lon": -43.25120472924844,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Capivara-Rubro-f771"
+    },
+    {
+      "paciente_id": 18849,
+      "lat": -22.93956369088682,
+      "lon": -43.24942757367385,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Saruê-Azul-7952"
+    },
+    {
+      "paciente_id": 18758,
+      "lat": -22.94260027564147,
+      "lon": -43.24258695606692,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Garça-Âmbar-40b9"
+    },
+    {
+      "paciente_id": 13138,
+      "lat": -22.94816043372831,
+      "lon": -43.25967364766284,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Tatu-Vinho-bc05"
+    },
+    {
+      "paciente_id": 3351,
+      "lat": -22.915850311346407,
+      "lon": -43.24809415412492,
+      "nivel_risco": "critico",
+      "nome_display": "Paciente Ariranha-Lima-178b"
+    },
+    {
+      "paciente_id": 97818,
+      "lat": -22.91393928545357,
+      "lon": -43.2582551415818,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Quati-Coral-84e1"
+    },
+    {
+      "paciente_id": 97789,
+      "lat": -22.91330654568797,
+      "lon": -43.259244670730304,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Areia-8798"
+    },
+    {
+      "paciente_id": 97095,
+      "lat": -22.921622890347216,
+      "lon": -43.219767886056125,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tatu-Oliva-23e4"
+    },
+    {
+      "paciente_id": 91254,
+      "lat": -22.922337593762027,
+      "lon": -43.24351371461071,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tatu-Turquesa-08e1"
+    },
+    {
+      "paciente_id": 89457,
+      "lat": -22.931042431612177,
+      "lon": -43.22719788985973,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Curió-Safira-0418"
+    },
+    {
+      "paciente_id": 89394,
+      "lat": -22.929925771541413,
+      "lon": -43.2298255236359,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Rosé-f911"
+    },
+    {
+      "paciente_id": 89345,
+      "lat": -22.904935228448338,
+      "lon": -43.28494352046677,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Ocre-f833"
+    },
+    {
+      "paciente_id": 87814,
+      "lat": -22.919078451235077,
+      "lon": -43.26539080837509,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Inhambu-Rosé-ffa6"
+    },
+    {
+      "paciente_id": 87399,
+      "lat": -22.914722825175843,
+      "lon": -43.25506294617884,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Lagartixa-Ciano-9f2e"
+    },
+    {
+      "paciente_id": 87203,
+      "lat": -22.913964073725385,
+      "lon": -43.2555985729692,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Siriri-Esmeralda-c1f8"
+    },
+    {
+      "paciente_id": 86169,
+      "lat": -22.912544454974604,
+      "lon": -43.2369156134604,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Inhambu-Vinho-c648"
+    },
+    {
+      "paciente_id": 86112,
+      "lat": -22.915359298628086,
+      "lon": -43.22845700024196,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Jaguatirica-Dourado-88b7"
+    },
+    {
+      "paciente_id": 85787,
+      "lat": -22.91302541849645,
+      "lon": -43.22253558955994,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Inhambu-Lima-6460"
+    },
+    {
+      "paciente_id": 85730,
+      "lat": -22.916044676295737,
+      "lon": -43.22290314271557,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Capivara-Âmbar-d171"
+    },
+    {
+      "paciente_id": 84336,
+      "lat": -22.90172851061315,
+      "lon": -43.261277624251534,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Ariranha-Bege-efa2"
+    },
+    {
+      "paciente_id": 84315,
+      "lat": -22.93887719523232,
+      "lon": -43.24829264100854,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Inhambu-Lima-4721"
+    },
+    {
+      "paciente_id": 84221,
+      "lat": -22.942747959064945,
+      "lon": -43.244177113299365,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tucano-Ciano-997a"
+    },
+    {
+      "paciente_id": 84159,
+      "lat": -22.940713851405445,
+      "lon": -43.24305711937236,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Lagartixa-Indigo-7628"
+    },
+    {
+      "paciente_id": 84122,
+      "lat": -22.93826048198274,
+      "lon": -43.24666374969063,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Rosé-b83a"
+    },
+    {
+      "paciente_id": 83989,
+      "lat": -22.94381712466936,
+      "lon": -43.241561797033626,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Veado-Coral-2910"
+    },
+    {
+      "paciente_id": 83909,
+      "lat": -22.94481593963329,
+      "lon": -43.25563808178346,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Capivara-Âmbar-3d8b"
+    },
+    {
+      "paciente_id": 83888,
+      "lat": -22.94073153757695,
+      "lon": -43.25303385043827,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Carcará-Magenta-208c"
+    },
+    {
+      "paciente_id": 83797,
+      "lat": -22.91458152270985,
+      "lon": -43.240270290008674,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Carcará-Safira-e6df"
+    },
+    {
+      "paciente_id": 83723,
+      "lat": -22.94105320791261,
+      "lon": -43.252155557738135,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tatu-Oliva-ec77"
+    },
+    {
+      "paciente_id": 83717,
+      "lat": -22.93907427823482,
+      "lon": -43.25126841124117,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Onça-Esmeralda-d27d"
+    },
+    {
+      "paciente_id": 83668,
+      "lat": -22.9412044315926,
+      "lon": -43.25203499109194,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Onça-Areia-be5d"
+    },
+    {
+      "paciente_id": 83661,
+      "lat": -22.940865771300164,
+      "lon": -43.25221360650503,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Ariranha-Turquesa-1c4c"
+    },
+    {
+      "paciente_id": 83108,
+      "lat": -22.918204378673135,
+      "lon": -43.36927077300574,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Quati-Magenta-ffad"
+    },
+    {
+      "paciente_id": 83048,
+      "lat": -22.94639879633677,
+      "lon": -43.26056040869302,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Ciano-7003"
+    },
+    {
+      "paciente_id": 82876,
+      "lat": -22.913567712272247,
+      "lon": -43.25526877030463,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Jaguatirica-Ciano-1eaa"
+    },
+    {
+      "paciente_id": 82794,
+      "lat": -22.91381169062969,
+      "lon": -43.249038888679245,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Onça-Âmbar-d2ae"
+    },
+    {
+      "paciente_id": 79866,
+      "lat": -22.926313541155302,
+      "lon": -43.221534459051,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Lagartixa-Turquesa-0b3b"
+    },
+    {
+      "paciente_id": 79776,
+      "lat": -22.92322716279565,
+      "lon": -43.21814303754569,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Marreca-Vinho-1400"
+    },
+    {
+      "paciente_id": 79650,
+      "lat": -22.92367956918576,
+      "lon": -43.22047136733973,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Quati-Indigo-b0c8"
+    },
+    {
+      "paciente_id": 78105,
+      "lat": -22.937827201191492,
+      "lon": -43.25256855433059,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Jaguatirica-Azul-fd04"
+    },
+    {
+      "paciente_id": 74569,
+      "lat": -22.915490124049292,
+      "lon": -43.24780353634118,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Verde-7020"
+    },
+    {
+      "paciente_id": 73787,
+      "lat": -22.979462010001,
+      "lon": -43.29177064454231,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Veado-Turquesa-d06b"
+    },
+    {
+      "paciente_id": 73709,
+      "lat": -22.978290529199036,
+      "lon": -43.29607006287647,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Capivara-Areia-14a6"
+    },
+    {
+      "paciente_id": 73134,
+      "lat": -22.913177677658407,
+      "lon": -43.259472362076515,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Inhambu-Verde-9218"
+    },
+    {
+      "paciente_id": 73109,
+      "lat": -22.914056394855457,
+      "lon": -43.259568717506646,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Turquesa-18e8"
+    },
+    {
+      "paciente_id": 97735,
+      "lat": -22.91550424835691,
+      "lon": -43.26031051688615,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Carcará-Bege-a9fc"
+    },
+    {
+      "paciente_id": 97547,
+      "lat": -22.926653108674294,
+      "lon": -43.265007518279745,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Veado-Lima-3f1b"
+    },
+    {
+      "paciente_id": 97129,
+      "lat": -22.938820977652632,
+      "lon": -43.24981380011385,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tucano-Areia-33dc"
+    },
+    {
+      "paciente_id": 97059,
+      "lat": -22.936967089295848,
+      "lon": -43.24665541007664,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Quati-Ciano-dc58"
+    },
+    {
+      "paciente_id": 96992,
+      "lat": -22.91158471220774,
+      "lon": -43.21850201192736,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Garça-Indigo-c701"
+    },
+    {
+      "paciente_id": 96967,
+      "lat": -22.910905133097355,
+      "lon": -43.218602612875976,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Marreca-Âmbar-0f62"
+    },
+    {
+      "paciente_id": 96941,
+      "lat": -22.915540726622613,
+      "lon": -43.215755544942134,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Siriri-Vinho-6867"
+    },
+    {
+      "paciente_id": 96846,
+      "lat": -22.912721717071403,
+      "lon": -43.215646003046466,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Capivara-Pêssego-3200"
+    },
+    {
+      "paciente_id": 96811,
+      "lat": -22.913885636939177,
+      "lon": -43.215576527884366,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Siriri-Rosé-0b1a"
+    },
+    {
+      "paciente_id": 96789,
+      "lat": -22.91181402243725,
+      "lon": -43.21832521874403,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Indigo-2376"
+    },
+    {
+      "paciente_id": 96767,
+      "lat": -22.91269427226676,
+      "lon": -43.21331411229864,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Indigo-4c63"
+    },
+    {
+      "paciente_id": 96761,
+      "lat": -22.934451199091896,
+      "lon": -43.24478332482067,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tatu-Oliva-e526"
+    },
+    {
+      "paciente_id": 96753,
+      "lat": -22.916764106495965,
+      "lon": -43.22148531017829,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Quati-Areia-b8aa"
+    },
+    {
+      "paciente_id": 96737,
+      "lat": -22.913889482346836,
+      "lon": -43.215725631759895,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Âmbar-0d41"
+    },
+    {
+      "paciente_id": 96689,
+      "lat": -22.914011295942647,
+      "lon": -43.212791902520664,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Curió-Verde-5969"
+    },
+    {
+      "paciente_id": 96661,
+      "lat": -22.915883670765577,
+      "lon": -43.21723331868827,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Jaguatirica-Dourado-ac6f"
+    },
+    {
+      "paciente_id": 96617,
+      "lat": -22.914074896203335,
+      "lon": -43.21787923348424,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Lagartixa-Oliva-fd29"
+    },
+    {
+      "paciente_id": 96615,
+      "lat": -22.91257448688523,
+      "lon": -43.21714724969317,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Indigo-8a12"
+    },
+    {
+      "paciente_id": 96553,
+      "lat": -22.915032255043755,
+      "lon": -43.214829068183,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Curió-Âmbar-d576"
+    },
+    {
+      "paciente_id": 96483,
+      "lat": -22.91372038044647,
+      "lon": -43.216508612167715,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Jaguatirica-Pêssego-ada2"
+    },
+    {
+      "paciente_id": 96437,
+      "lat": -22.911425675658645,
+      "lon": -43.21532993633522,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Veado-Vinho-7c62"
+    },
+    {
+      "paciente_id": 96430,
+      "lat": -22.912749077569785,
+      "lon": -43.21413731850903,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Vinho-5b90"
+    },
+    {
+      "paciente_id": 96420,
+      "lat": -22.91094449743779,
+      "lon": -43.21434806577105,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Onça-Bege-92cd"
+    },
+    {
+      "paciente_id": 96073,
+      "lat": -22.936743628626008,
+      "lon": -43.246389388635656,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Siriri-Lima-6919"
+    },
+    {
+      "paciente_id": 94064,
+      "lat": -22.92369025464554,
+      "lon": -43.25860559452952,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Inhambu-Esmeralda-2d60"
+    },
+    {
+      "paciente_id": 93584,
+      "lat": -22.92483616317664,
+      "lon": -43.25140676272258,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tucano-Safira-c8db"
+    },
+    {
+      "paciente_id": 93149,
+      "lat": -22.928450299044357,
+      "lon": -43.244800097556336,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Indigo-1655"
+    },
+    {
+      "paciente_id": 93017,
+      "lat": -22.935215412972028,
+      "lon": -43.2391061349379,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Curió-Oliva-d577"
+    },
+    {
+      "paciente_id": 92294,
+      "lat": -22.926695790598927,
+      "lon": -43.23311870110242,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Onça-Lima-65b2"
+    },
+    {
+      "paciente_id": 91672,
+      "lat": -22.936299837875072,
+      "lon": -43.24768388556323,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Bege-89bc"
+    },
+    {
+      "paciente_id": 91387,
+      "lat": -22.917938348568043,
+      "lon": -43.242704267474785,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Siriri-Indigo-8f6d"
+    },
+    {
+      "paciente_id": 90292,
+      "lat": -22.91625084433209,
+      "lon": -43.245212849757614,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Marreca-Safira-6acf"
+    },
+    {
+      "paciente_id": 89539,
+      "lat": -22.928767993807195,
+      "lon": -43.22949811199878,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Verde-b6a6"
+    },
+    {
+      "paciente_id": 89499,
+      "lat": -22.930430907473216,
+      "lon": -43.22653191248753,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tatu-Ciano-2ca2"
+    },
+    {
+      "paciente_id": 89414,
+      "lat": -22.92953698137748,
+      "lon": -43.228587569666445,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Ciano-332d"
+    },
+    {
+      "paciente_id": 88982,
+      "lat": -22.916656709742917,
+      "lon": -43.25628737025796,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Jaguatirica-Lima-c377"
+    },
+    {
+      "paciente_id": 88787,
+      "lat": -22.918767958072948,
+      "lon": -43.25121048878126,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Carcará-Magenta-8c1a"
+    },
+    {
+      "paciente_id": 88748,
+      "lat": -22.92042574347464,
+      "lon": -43.258556340681515,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Pêssego-7326"
+    },
+    {
+      "paciente_id": 88509,
+      "lat": -22.91734583248821,
+      "lon": -43.253936880000815,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Oliva-74f1"
+    },
+    {
+      "paciente_id": 88508,
+      "lat": -22.92117877252205,
+      "lon": -43.25963283596448,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Veado-Azul-d2ce"
+    },
+    {
+      "paciente_id": 88491,
+      "lat": -22.917481368179136,
+      "lon": -43.249887548696606,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Quati-Oliva-80c8"
+    },
+    {
+      "paciente_id": 88487,
+      "lat": -22.91802068587397,
+      "lon": -43.25583368401853,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Jaguatirica-Turquesa-b092"
+    },
+    {
+      "paciente_id": 88457,
+      "lat": -22.917657998977734,
+      "lon": -43.25311176162817,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Capivara-Esmeralda-44e5"
+    },
+    {
+      "paciente_id": 88204,
+      "lat": -22.92065800300087,
+      "lon": -43.25377134552994,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Inhambu-Ciano-3d55"
+    },
+    {
+      "paciente_id": 88182,
+      "lat": -22.91766164665061,
+      "lon": -43.249707980398234,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Quati-Ciano-ef88"
+    },
+    {
+      "paciente_id": 88096,
+      "lat": -22.918356354736652,
+      "lon": -43.266604021417415,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Turquesa-490b"
+    },
+    {
+      "paciente_id": 88082,
+      "lat": -22.917031963325613,
+      "lon": -43.25849323565367,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Marreca-Ocre-ee64"
+    },
+    {
+      "paciente_id": 88066,
+      "lat": -22.916623501478742,
+      "lon": -43.26067996481547,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Verde-bbb5"
+    },
+    {
+      "paciente_id": 88061,
+      "lat": -22.91813648030155,
+      "lon": -43.260734153353674,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Lagartixa-Bege-c203"
+    },
+    {
+      "paciente_id": 88050,
+      "lat": -22.919975995844005,
+      "lon": -43.26318464214587,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tucano-Safira-005d"
+    },
+    {
+      "paciente_id": 88018,
+      "lat": -22.919005541727863,
+      "lon": -43.267350052956935,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Capivara-Lima-5507"
+    },
+    {
+      "paciente_id": 87991,
+      "lat": -22.918676645986572,
+      "lon": -43.26408141544368,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Siriri-Indigo-57bd"
+    },
+    {
+      "paciente_id": 87948,
+      "lat": -22.92958456673293,
+      "lon": -43.23929510430895,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tatu-Magenta-2b34"
+    },
+    {
+      "paciente_id": 87801,
+      "lat": -22.9196965553157,
+      "lon": -43.24649373513219,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Rosé-b602"
+    },
+    {
+      "paciente_id": 87746,
+      "lat": -22.919583862380374,
+      "lon": -43.267304622622525,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Marreca-Ocre-9b74"
+    },
+    {
+      "paciente_id": 87741,
+      "lat": -22.91803592160773,
+      "lon": -43.26608862255376,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Marreca-Dourado-7bff"
+    },
+    {
+      "paciente_id": 87731,
+      "lat": -22.917168829983847,
+      "lon": -43.261270638936445,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Esmeralda-4324"
+    },
+    {
+      "paciente_id": 87672,
+      "lat": -22.917714008476043,
+      "lon": -43.26095324076768,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Rubro-c369"
+    },
+    {
+      "paciente_id": 87622,
+      "lat": -22.91654517380702,
+      "lon": -43.26240938785706,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Inhambu-Lima-8408"
+    },
+    {
+      "paciente_id": 87560,
+      "lat": -22.918372454547427,
+      "lon": -43.26368217369162,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tucano-Dourado-79d4"
+    },
+    {
+      "paciente_id": 87461,
+      "lat": -22.915542955699763,
+      "lon": -43.254646367317015,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Ariranha-Âmbar-b707"
+    },
+    {
+      "paciente_id": 87349,
+      "lat": -22.91511868750835,
+      "lon": -43.254224893770726,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Marreca-Safira-b859"
+    },
+    {
+      "paciente_id": 87295,
+      "lat": -22.91415451692377,
+      "lon": -43.255179655100854,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Rosé-5048"
+    },
+    {
+      "paciente_id": 87242,
+      "lat": -22.9141213924064,
+      "lon": -43.25572240055042,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Siriri-Coral-2f59"
+    },
+    {
+      "paciente_id": 87232,
+      "lat": -22.915188103129328,
+      "lon": -43.25460733726632,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Ariranha-Vinho-0853"
+    },
+    {
+      "paciente_id": 87193,
+      "lat": -22.938642260426032,
+      "lon": -43.252044465102294,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Onça-Pêssego-5a15"
+    },
+    {
+      "paciente_id": 87134,
+      "lat": -22.889147367899625,
+      "lon": -43.24326432164219,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Marreca-Lima-86bb"
+    },
+    {
+      "paciente_id": 87129,
+      "lat": -22.93870691549624,
+      "lon": -43.25156566769287,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Garça-Oliva-c838"
+    },
+    {
+      "paciente_id": 87001,
+      "lat": -22.941216023112815,
+      "lon": -43.254436289300905,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Garça-Âmbar-afe7"
+    },
+    {
+      "paciente_id": 86985,
+      "lat": -22.941215385262385,
+      "lon": -43.253091522398506,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Curió-Magenta-9580"
+    },
+    {
+      "paciente_id": 86967,
+      "lat": -22.944461640352426,
+      "lon": -43.25474502376294,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Ocre-daed"
+    },
+    {
+      "paciente_id": 86266,
+      "lat": -22.920983112420544,
+      "lon": -43.223625740410455,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Ariranha-Rosé-495d"
+    },
+    {
+      "paciente_id": 86255,
+      "lat": -22.91586505718792,
+      "lon": -43.23207450995576,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Veado-Rubro-e7c6"
+    },
+    {
+      "paciente_id": 86221,
+      "lat": -22.91201485027534,
+      "lon": -43.23758487520072,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tucano-Turquesa-9295"
+    },
+    {
+      "paciente_id": 86197,
+      "lat": -22.916370695287927,
+      "lon": -43.23227308795072,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Pêssego-1417"
+    },
+    {
+      "paciente_id": 86181,
+      "lat": -22.914190607583567,
+      "lon": -43.23629442143593,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Lagartixa-Coral-b44f"
+    },
+    {
+      "paciente_id": 86164,
+      "lat": -22.913112080562936,
+      "lon": -43.23398993162544,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Garça-Safira-540d"
+    },
+    {
+      "paciente_id": 86155,
+      "lat": -22.91551137857834,
+      "lon": -43.23284322988625,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Onça-Lima-e4af"
+    },
+    {
+      "paciente_id": 86149,
+      "lat": -22.915269559123175,
+      "lon": -43.23175710342149,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Marreca-Safira-bb90"
+    },
+    {
+      "paciente_id": 86101,
+      "lat": -22.910500642933258,
+      "lon": -43.238608143049554,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Carcará-Coral-4303"
+    },
+    {
+      "paciente_id": 86069,
+      "lat": -22.913376615111268,
+      "lon": -43.23211233467902,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Carcará-Rosé-9a67"
+    },
+    {
+      "paciente_id": 85858,
+      "lat": -22.911940144127215,
+      "lon": -43.24744219078559,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tucano-Esmeralda-19ee"
+    },
+    {
+      "paciente_id": 85830,
+      "lat": -22.914352563241454,
+      "lon": -43.233552215568984,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Ariranha-Safira-dcfc"
+    },
+    {
+      "paciente_id": 85812,
+      "lat": -22.913524390730046,
+      "lon": -43.23260807468223,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Curió-Verde-3dc7"
+    },
+    {
+      "paciente_id": 85811,
+      "lat": -22.96318931477623,
+      "lon": -43.169587475623445,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Garça-Ocre-d3de"
+    },
+    {
+      "paciente_id": 85800,
+      "lat": -22.91516165626707,
+      "lon": -43.232693190179695,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Quati-Turquesa-cf01"
+    },
+    {
+      "paciente_id": 85596,
+      "lat": -22.914226133607873,
+      "lon": -43.21988093673748,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Quati-Verde-294c"
+    },
+    {
+      "paciente_id": 85272,
+      "lat": -22.91402509693272,
+      "lon": -43.220725085149155,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Capivara-Ocre-3793"
+    },
+    {
+      "paciente_id": 85220,
+      "lat": -22.91586258432868,
+      "lon": -43.22023630991423,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Jaguatirica-Magenta-c533"
+    },
+    {
+      "paciente_id": 84844,
+      "lat": -22.918251412079243,
+      "lon": -43.21203930940527,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Curió-Verde-dd6e"
+    },
+    {
+      "paciente_id": 84593,
+      "lat": -22.91786631725297,
+      "lon": -43.21271543354576,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Veado-Indigo-c0fc"
+    },
+    {
+      "paciente_id": 84410,
+      "lat": -22.941457989940247,
+      "lon": -43.24419916564115,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Garça-Rosé-e2cb"
+    },
+    {
+      "paciente_id": 84386,
+      "lat": -22.941092645014713,
+      "lon": -43.2441287266417,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Âmbar-5d83"
+    },
+    {
+      "paciente_id": 84308,
+      "lat": -22.939197828083383,
+      "lon": -43.24872179003254,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Dourado-8c77"
+    },
+    {
+      "paciente_id": 84296,
+      "lat": -22.92227232750255,
+      "lon": -43.239879108719485,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Azul-667b"
+    },
+    {
+      "paciente_id": 84252,
+      "lat": -22.9412430674942,
+      "lon": -43.245080094853094,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Ciano-7be2"
+    },
+    {
+      "paciente_id": 84225,
+      "lat": -22.941028996180396,
+      "lon": -43.24525340743125,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tucano-Verde-119b"
+    },
+    {
+      "paciente_id": 84197,
+      "lat": -22.92528970273871,
+      "lon": -43.234909620308194,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Carcará-Dourado-baea"
+    },
+    {
+      "paciente_id": 84192,
+      "lat": -22.938206170828675,
+      "lon": -43.249561028241295,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Curió-Esmeralda-d96e"
+    },
+    {
+      "paciente_id": 84160,
+      "lat": -22.94074188008983,
+      "lon": -43.25426741396768,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Dourado-3973"
+    },
+    {
+      "paciente_id": 84155,
+      "lat": -22.938873557309,
+      "lon": -43.24209116531454,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Jaguatirica-Magenta-8ba7"
+    },
+    {
+      "paciente_id": 84076,
+      "lat": -22.94200643450086,
+      "lon": -43.242158869357645,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Curió-Lima-b492"
+    },
+    {
+      "paciente_id": 84058,
+      "lat": -22.942881395629072,
+      "lon": -43.244008473616795,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Curió-Ocre-889e"
+    },
+    {
+      "paciente_id": 83914,
+      "lat": -22.941064202566366,
+      "lon": -43.253078906279285,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Ariranha-Lima-d22c"
+    },
+    {
+      "paciente_id": 83898,
+      "lat": -22.93876259368202,
+      "lon": -43.25125758957443,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Garça-Vinho-3713"
+    },
+    {
+      "paciente_id": 83874,
+      "lat": -22.991623086671407,
+      "lon": -43.320740829213115,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Lagartixa-Safira-b9d2"
+    },
+    {
+      "paciente_id": 83841,
+      "lat": -22.93901218982841,
+      "lon": -43.25227263959892,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Ciano-65fa"
+    },
+    {
+      "paciente_id": 83837,
+      "lat": -22.940204169050784,
+      "lon": -43.251931949740495,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Ariranha-Areia-f227"
+    },
+    {
+      "paciente_id": 83775,
+      "lat": -22.939031071655,
+      "lon": -43.251387644347645,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Turquesa-c8e0"
+    },
+    {
+      "paciente_id": 83692,
+      "lat": -22.940583222050645,
+      "lon": -43.25237541721709,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Inhambu-Ciano-ba0b"
+    },
+    {
+      "paciente_id": 83686,
+      "lat": -22.946048127550327,
+      "lon": -43.256672034590245,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Capivara-Lima-40a8"
+    },
+    {
+      "paciente_id": 83685,
+      "lat": -22.916505137797145,
+      "lon": -43.21212011257427,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Ariranha-Vinho-c012"
+    },
+    {
+      "paciente_id": 83671,
+      "lat": -22.911093726997805,
+      "lon": -43.213542776882846,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Pêssego-6a21"
+    },
+    {
+      "paciente_id": 83663,
+      "lat": -22.940260694235587,
+      "lon": -43.25283738168378,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Veado-Turquesa-e40a"
+    },
+    {
+      "paciente_id": 83656,
+      "lat": -22.94137305583991,
+      "lon": -43.25398121432029,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tatu-Coral-1182"
+    },
+    {
+      "paciente_id": 83650,
+      "lat": -22.942537433120425,
+      "lon": -43.25381345517789,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Curió-Coral-ca72"
+    },
+    {
+      "paciente_id": 83649,
+      "lat": -22.94051658841679,
+      "lon": -43.25248707731074,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Indigo-de31"
+    },
+    {
+      "paciente_id": 83407,
+      "lat": -22.92661673385504,
+      "lon": -43.25950497334783,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Inhambu-Verde-4bc2"
+    },
+    {
+      "paciente_id": 83379,
+      "lat": -22.976873051756108,
+      "lon": -43.282132254196114,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Jaguatirica-Rubro-516c"
+    },
+    {
+      "paciente_id": 83363,
+      "lat": -22.97684411051576,
+      "lon": -43.28452658785939,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Onça-Safira-ab31"
+    },
+    {
+      "paciente_id": 83355,
+      "lat": -22.929140926484255,
+      "lon": -43.2344143470705,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Siriri-Bege-f9d7"
+    },
+    {
+      "paciente_id": 83302,
+      "lat": -22.97607067294495,
+      "lon": -43.28366981951206,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Siriri-Esmeralda-7607"
+    },
+    {
+      "paciente_id": 83234,
+      "lat": -22.97597072017903,
+      "lon": -43.285128769132456,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Rosé-af65"
+    },
+    {
+      "paciente_id": 82985,
+      "lat": -22.976624883766902,
+      "lon": -43.28391716455956,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tucano-Coral-18f6"
+    },
+    {
+      "paciente_id": 82765,
+      "lat": -22.913903004646077,
+      "lon": -43.26002602844502,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Curió-Ciano-fe93"
+    },
+    {
+      "paciente_id": 82754,
+      "lat": -22.914190172250596,
+      "lon": -43.25874995768345,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Jaguatirica-Ocre-911f"
+    },
+    {
+      "paciente_id": 82747,
+      "lat": -22.91472127341592,
+      "lon": -43.259636504819575,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Rosé-96e5"
+    },
+    {
+      "paciente_id": 82678,
+      "lat": -22.918645638314796,
+      "lon": -43.21835477399058,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Tatu-Ciano-fcf6"
+    },
+    {
+      "paciente_id": 82610,
+      "lat": -22.9210946449132,
+      "lon": -43.217909196937434,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Ariranha-Dourado-2921"
+    },
+    {
+      "paciente_id": 82444,
+      "lat": -22.919910980572556,
+      "lon": -43.22095490765324,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Turquesa-a925"
+    },
+    {
+      "paciente_id": 82269,
+      "lat": -22.919317469527233,
+      "lon": -43.2171560705498,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Coral-a13a"
+    },
+    {
+      "paciente_id": 82235,
+      "lat": -22.919654949224903,
+      "lon": -43.21892360242878,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Siriri-Rubro-c489"
+    },
+    {
+      "paciente_id": 82133,
+      "lat": -22.920860582338136,
+      "lon": -43.222326771429024,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Dourado-fd2b"
+    },
+    {
+      "paciente_id": 82099,
+      "lat": -22.916358783875815,
+      "lon": -43.21938715348947,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Inhambu-Magenta-f391"
+    },
+    {
+      "paciente_id": 81974,
+      "lat": -22.9207575094263,
+      "lon": -43.21697995774131,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Esmeralda-fa1d"
+    },
+    {
+      "paciente_id": 81504,
+      "lat": -22.91266822590417,
+      "lon": -43.239584413230496,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Ariranha-Rubro-6192"
+    },
+    {
+      "paciente_id": 81367,
+      "lat": -22.92396763449888,
+      "lon": -43.239128410165904,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Marreca-Pêssego-5957"
+    },
+    {
+      "paciente_id": 81294,
+      "lat": -22.921789707660583,
+      "lon": -43.24176298881291,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Ariranha-Lima-8f2a"
+    },
+    {
+      "paciente_id": 80291,
+      "lat": -22.971209267654817,
+      "lon": -43.2860514574523,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Curió-Pêssego-174e"
+    },
+    {
+      "paciente_id": 80212,
+      "lat": -22.925244695693177,
+      "lon": -43.22298395184835,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Areia-ff6c"
+    },
+    {
+      "paciente_id": 80188,
+      "lat": -22.923005028789387,
+      "lon": -43.22185846446979,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Inhambu-Rubro-b1ee"
+    },
+    {
+      "paciente_id": 80175,
+      "lat": -22.92425076150948,
+      "lon": -43.2151392309254,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Jaguatirica-Bege-7fee"
+    },
+    {
+      "paciente_id": 80160,
+      "lat": -22.92318044466284,
+      "lon": -43.21788472361485,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Azul-f59f"
+    },
+    {
+      "paciente_id": 80099,
+      "lat": -22.930067022681857,
+      "lon": -43.23299223770145,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Curió-Safira-cada"
+    },
+    {
+      "paciente_id": 80098,
+      "lat": -22.92339638180382,
+      "lon": -43.21697592139336,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Inhambu-Verde-215f"
+    },
+    {
+      "paciente_id": 80065,
+      "lat": -22.923102830810517,
+      "lon": -43.21713135828239,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Veado-Rubro-ceca"
+    },
+    {
+      "paciente_id": 80007,
+      "lat": -22.923622646213325,
+      "lon": -43.2171035858762,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Sabiá-Esmeralda-9881"
+    },
+    {
+      "paciente_id": 79967,
+      "lat": -22.923225387088124,
+      "lon": -43.2186201384167,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Capivara-Dourado-7203"
+    },
+    {
+      "paciente_id": 79964,
+      "lat": -22.92212590618266,
+      "lon": -43.21689298184201,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Vinho-2937"
+    },
+    {
+      "paciente_id": 79947,
+      "lat": -22.92065638968028,
+      "lon": -43.21692655050089,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Oliva-8734"
+    },
+    {
+      "paciente_id": 79880,
+      "lat": -22.923974305726855,
+      "lon": -43.21947378847698,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Garça-Coral-4517"
+    },
+    {
+      "paciente_id": 79877,
+      "lat": -22.9266078578444,
+      "lon": -43.2218783350737,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Verde-d518"
+    },
+    {
+      "paciente_id": 79803,
+      "lat": -22.92369672376339,
+      "lon": -43.21852118010083,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Saruê-Rubro-d771"
+    },
+    {
+      "paciente_id": 79773,
+      "lat": -22.91893717622111,
+      "lon": -43.210563775964594,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Onça-Magenta-c5c7"
+    },
+    {
+      "paciente_id": 79749,
+      "lat": -22.9254358377813,
+      "lon": -43.218769042481455,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Veado-Vinho-8c59"
+    },
+    {
+      "paciente_id": 79727,
+      "lat": -22.92176092016958,
+      "lon": -43.21874819530922,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Boto-Vinho-b71f"
+    },
+    {
+      "paciente_id": 79725,
+      "lat": -22.92349623100189,
+      "lon": -43.21866750881622,
+      "nivel_risco": "alto",
+      "nome_display": "Paciente Inhambu-Rubro-1c5f"
+    }
+  ],
+  "sedes_equipes": [
+    {
+      "equipe_id": 1,
+      "nome": "Equipe Maracujá-73aa",
+      "lat": -22.96551022359073,
+      "lon": -43.27733359589801
+    },
+    {
+      "equipe_id": 2,
+      "nome": "Equipe Umbu-0b5b",
+      "lat": -22.96551022359073,
+      "lon": -43.27733359589801
+    },
+    {
+      "equipe_id": 3,
+      "nome": "Equipe Pitanga-96cc",
+      "lat": -22.96551022359073,
+      "lon": -43.27733359589801
+    },
+    {
+      "equipe_id": 4,
+      "nome": "Equipe Abacaxi-b2ac",
+      "lat": -22.916920771224344,
+      "lon": -43.2590629048654
+    },
+    {
+      "equipe_id": 5,
+      "nome": "Equipe Graviola-7b6a",
+      "lat": -22.916920771224344,
+      "lon": -43.2590629048654
+    },
+    {
+      "equipe_id": 6,
+      "nome": "Equipe Cajá-0802",
+      "lat": -22.916920771224344,
+      "lon": -43.2590629048654
+    },
+    {
+      "equipe_id": 7,
+      "nome": "Equipe Graviola-2b88",
+      "lat": -22.916920771224344,
+      "lon": -43.2590629048654
+    },
+    {
+      "equipe_id": 8,
+      "nome": "Equipe Pitanga-80ed",
+      "lat": -22.916958068083417,
+      "lon": -43.25593091588483
+    },
+    {
+      "equipe_id": 9,
+      "nome": "Equipe Pitanga-11ed",
+      "lat": -22.916958068083417,
+      "lon": -43.25593091588483
+    },
+    {
+      "equipe_id": 10,
+      "nome": "Equipe Pitanga-175f",
+      "lat": -22.916958068083417,
+      "lon": -43.25593091588483
+    },
+    {
+      "equipe_id": 11,
+      "nome": "Equipe Goiaba-09f5",
+      "lat": -22.916958068083417,
+      "lon": -43.25593091588483
+    },
+    {
+      "equipe_id": 12,
+      "nome": "Equipe Acerola-2848",
+      "lat": -22.916958068083417,
+      "lon": -43.25593091588483
+    },
+    {
+      "equipe_id": 13,
+      "nome": "Equipe Pitanga-4dce",
+      "lat": -22.916958068083417,
+      "lon": -43.25593091588483
+    },
+    {
+      "equipe_id": 14,
+      "nome": "Equipe Umbu-cf4f",
+      "lat": -22.916958068083417,
+      "lon": -43.25593091588483
+    },
+    {
+      "equipe_id": 15,
+      "nome": "Equipe Acerola-6185",
+      "lat": -22.916958068083417,
+      "lon": -43.25593091588483
+    },
+    {
+      "equipe_id": 16,
+      "nome": "Equipe Abacaxi-dc1a",
+      "lat": -22.916958068083417,
+      "lon": -43.25593091588483
+    },
+    {
+      "equipe_id": 17,
+      "nome": "Equipe Pitanga-a74e",
+      "lat": -22.916958068083417,
+      "lon": -43.25593091588483
+    },
+    {
+      "equipe_id": 18,
+      "nome": "Equipe Tamarindo-d79e",
+      "lat": -22.924652624274493,
+      "lon": -43.25504982206208
+    },
+    {
+      "equipe_id": 19,
+      "nome": "Equipe Maracujá-dabc",
+      "lat": -22.924652624274493,
+      "lon": -43.25504982206208
+    },
+    {
+      "equipe_id": 20,
+      "nome": "Equipe Jabuticaba-b5c9",
+      "lat": -22.924652624274493,
+      "lon": -43.25504982206208
+    },
+    {
+      "equipe_id": 21,
+      "nome": "Equipe Pitanga-97db",
+      "lat": -22.924652624274493,
+      "lon": -43.25504982206208
+    },
+    {
+      "equipe_id": 22,
+      "nome": "Equipe Cupuaçu-938e",
+      "lat": -22.924652624274493,
+      "lon": -43.25504982206208
+    },
+    {
+      "equipe_id": 23,
+      "nome": "Equipe Maracujá-f363",
+      "lat": -22.924652624274493,
+      "lon": -43.25504982206208
+    },
+    {
+      "equipe_id": 24,
+      "nome": "Equipe Cupuaçu-54b5",
+      "lat": -22.93947176094694,
+      "lon": -43.2521405528795
+    },
+    {
+      "equipe_id": 25,
+      "nome": "Equipe Pitomba-10ac",
+      "lat": -22.93947176094694,
+      "lon": -43.2521405528795
+    },
+    {
+      "equipe_id": 26,
+      "nome": "Equipe Goiaba-5422",
+      "lat": -22.93947176094694,
+      "lon": -43.2521405528795
+    },
+    {
+      "equipe_id": 27,
+      "nome": "Equipe Umbu-dd81",
+      "lat": -22.93681441703343,
+      "lon": -43.248165951368634
+    },
+    {
+      "equipe_id": 28,
+      "nome": "Equipe Murici-03ea",
+      "lat": -22.942253663664093,
+      "lon": -43.243097343959555
+    },
+    {
+      "equipe_id": 29,
+      "nome": "Equipe Pitomba-7af2",
+      "lat": -22.942253663664093,
+      "lon": -43.243097343959555
+    },
+    {
+      "equipe_id": 30,
+      "nome": "Equipe Pitanga-243a",
+      "lat": -22.928955716556025,
+      "lon": -43.23398359552194
+    },
+    {
+      "equipe_id": 31,
+      "nome": "Equipe Cajá-2c9e",
+      "lat": -22.928955716556025,
+      "lon": -43.23398359552194
+    },
+    {
+      "equipe_id": 32,
+      "nome": "Equipe Maracujá-a49f",
+      "lat": -22.928955716556025,
+      "lon": -43.23398359552194
+    },
+    {
+      "equipe_id": 33,
+      "nome": "Equipe Tamarindo-2322",
+      "lat": -22.928955716556025,
+      "lon": -43.23398359552194
+    },
+    {
+      "equipe_id": 34,
+      "nome": "Equipe Murici-13ac",
+      "lat": -22.928955716556025,
+      "lon": -43.23398359552194
+    },
+    {
+      "equipe_id": 35,
+      "nome": "Equipe Cajá-4b2b",
+      "lat": -22.928955716556025,
+      "lon": -43.23398359552194
+    },
+    {
+      "equipe_id": 36,
+      "nome": "Equipe Umbu-2ad6",
+      "lat": -22.928955716556025,
+      "lon": -43.23398359552194
+    },
+    {
+      "equipe_id": 37,
+      "nome": "Equipe Abacaxi-0206",
+      "lat": -22.928955716556025,
+      "lon": -43.23398359552194
+    },
+    {
+      "equipe_id": 38,
+      "nome": "Equipe Jenipapo-45a1",
+      "lat": -22.928955716556025,
+      "lon": -43.23398359552194
+    },
+    {
+      "equipe_id": 39,
+      "nome": "Equipe Graviola-7fd5",
+      "lat": -22.928955716556025,
+      "lon": -43.23398359552194
+    },
+    {
+      "equipe_id": 40,
+      "nome": "Equipe Graviola-5156",
+      "lat": -22.928955716556025,
+      "lon": -43.23398359552194
+    },
+    {
+      "equipe_id": 41,
+      "nome": "Equipe Abacaxi-590f",
+      "lat": -22.928955716556025,
+      "lon": -43.23398359552194
+    },
+    {
+      "equipe_id": 42,
+      "nome": "Equipe Acerola-830b",
+      "lat": -22.91388494999904,
+      "lon": -43.212902054560274
+    },
+    {
+      "equipe_id": 43,
+      "nome": "Equipe Jenipapo-d465",
+      "lat": -22.91388494999904,
+      "lon": -43.212902054560274
+    },
+    {
+      "equipe_id": 44,
+      "nome": "Equipe Cupuaçu-f659",
+      "lat": -22.91388494999904,
+      "lon": -43.212902054560274
+    },
+    {
+      "equipe_id": 45,
+      "nome": "Equipe Umbu-efc2",
+      "lat": -22.91388494999904,
+      "lon": -43.212902054560274
+    },
+    {
+      "equipe_id": 46,
+      "nome": "Equipe Goiaba-c00d",
+      "lat": -22.91388494999904,
+      "lon": -43.212902054560274
+    },
+    {
+      "equipe_id": 47,
+      "nome": "Equipe Tamarindo-d33b",
+      "lat": -22.91388494999904,
+      "lon": -43.212902054560274
+    },
+    {
+      "equipe_id": 48,
+      "nome": "Equipe Buriti-dbf6",
+      "lat": -22.91388494999904,
+      "lon": -43.212902054560274
+    },
+    {
+      "equipe_id": 49,
+      "nome": "Equipe Cajá-b3b5",
+      "lat": -22.91388494999904,
+      "lon": -43.212902054560274
+    }
+  ],
+  "sedes_unidades": [
+    {
+      "unidade_id": 1,
+      "nome": "Unidade Turquesa-def3",
+      "lat": -22.914938174048558,
+      "lon": -43.25947757441125
+    },
+    {
+      "unidade_id": 2,
+      "nome": "Unidade Rubro-dc68",
+      "lat": -22.927419316032726,
+      "lon": -43.237170523300136
+    },
+    {
+      "unidade_id": 3,
+      "nome": "Unidade Âmbar-e587",
+      "lat": -22.962022076904642,
+      "lon": -43.292882722599934
+    },
+    {
+      "unidade_id": 4,
+      "nome": "Unidade Verde-a8bc",
+      "lat": -22.92779745469277,
+      "lon": -43.25937182036343
+    },
+    {
+      "unidade_id": 5,
+      "nome": "Unidade Rosé-473a",
+      "lat": -22.914747827213272,
+      "lon": -43.249875464104036
+    },
+    {
+      "unidade_id": 6,
+      "nome": "Unidade Rosé-c40f",
+      "lat": -22.91571711194808,
+      "lon": -43.221567059930386
+    },
+    {
+      "unidade_id": 7,
+      "nome": "Unidade Âmbar-f4d5",
+      "lat": -22.93906929999674,
+      "lon": -43.25457408600029
+    },
+    {
+      "unidade_id": 8,
+      "nome": "Unidade Pêssego-8808",
+      "lat": -22.9359576734723,
+      "lon": -43.24088229880726
+    },
+    {
+      "unidade_id": 9,
+      "nome": "Unidade Safira-7fb2",
+      "lat": -22.92877551705415,
+      "lon": -43.24454109357045
+    }
+  ],
+  "total_no_escopo": 97888,
+  "truncado_em": 500
+}

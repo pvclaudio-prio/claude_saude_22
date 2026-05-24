@@ -1,0 +1,245 @@
+{
+  "items": [
+    {
+      "paciente_id": 34397,
+      "nome_display": "Paciente Ariranha-Vinho-fb29",
+      "score": 69.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-03-19",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente gestante.",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 29368,
+      "nome_display": "Paciente Tatu-Dourado-24f4",
+      "score": 69.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-11-15",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente gestante.",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 97768,
+      "nome_display": "Paciente Jaguatirica-Oliva-f970",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-10-29",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 97610,
+      "nome_display": "Paciente Lagartixa-Areia-efdb",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-03-15",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 96867,
+      "nome_display": "Paciente Sabiá-Bege-c98d",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-08-09",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 96369,
+      "nome_display": "Paciente Onça-Coral-acc2",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": null,
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 93299,
+      "nome_display": "Paciente Tucano-Turquesa-7d77",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-09-20",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 91859,
+      "nome_display": "Paciente Curió-Turquesa-d462",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-11-04",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 91641,
+      "nome_display": "Paciente Tucano-Dourado-384f",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": null,
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 90520,
+      "nome_display": "Paciente Capivara-Rosé-3abe",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-03-22",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 89420,
+      "nome_display": "Paciente Siriri-Âmbar-433a",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-10-24",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 89410,
+      "nome_display": "Paciente Carcará-Dourado-ade5",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-10-24",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 89331,
+      "nome_display": "Paciente Capivara-Lima-ed99",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-11-07",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 88295,
+      "nome_display": "Paciente Carcará-Dourado-6a2b",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-10-21",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 88109,
+      "nome_display": "Paciente Tucano-Safira-b06c",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": null,
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 87761,
+      "nome_display": "Paciente Ariranha-Turquesa-d3fb",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": null,
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 87439,
+      "nome_display": "Paciente Siriri-Azul-70d2",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-07-15",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 87379,
+      "nome_display": "Paciente Capivara-Magenta-3d87",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-04-29",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 87321,
+      "nome_display": "Paciente Siriri-Magenta-fdc1",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": "2025-10-03",
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    },
+    {
+      "paciente_id": 87252,
+      "nome_display": "Paciente Marreca-Turquesa-736c",
+      "score": 67.0,
+      "nivel_risco": "critico",
+      "ultima_visita_em": null,
+      "motivos": [
+        "Paciente em situação de vulnerabilidade social.",
+        "Paciente idoso (66+).",
+        "Hipertensão referida."
+      ]
+    }
+  ],
+  "escopo": "Admin (todos)"
+}

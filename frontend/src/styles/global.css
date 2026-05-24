@@ -1,0 +1,108 @@
+@import "leaflet/dist/leaflet.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body,
+  #root {
+    @apply h-full;
+  }
+
+  body {
+    @apply bg-slate-950 text-slate-100 font-sans;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display tracking-tight;
+  }
+
+  /* Foco acessível em todos os elementos interativos */
+  :focus-visible {
+    @apply outline-none ring-2 ring-saude-500 ring-offset-2 ring-offset-slate-950;
+  }
+
+  /* Respeita usuários com preferência por menos movimento */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+/* --- Impressão (relatório one-page) --- */
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 12mm;
+  }
+  body {
+    @apply bg-white text-slate-900 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .no-print,
+  aside,
+  nav,
+  header.md\:hidden {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .glass {
+    background: white !important;
+    border: 1px solid #cbd5e1 !important;
+    box-shadow: none !important;
+    backdrop-filter: none !important;
+  }
+  main {
+    padding: 0 !important;
+    overflow: visible !important;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  p,
+  li,
+  span {
+    color: #0f172a !important;
+  }
+}
+.print-only {
+  display: none;
+}
+
+@layer components {
+  .glass {
+    @apply bg-slate-900/40 backdrop-blur-xl border border-slate-800/60 shadow-2xl;
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-medium;
+  }
+
+  .chip-baixo {
+    @apply chip bg-slate-800/70 text-slate-300;
+  }
+  .chip-moderado {
+    @apply chip bg-yellow-500/15 text-yellow-300;
+  }
+  .chip-alto {
+    @apply chip bg-alerta-500/15 text-alerta-400;
+  }
+  .chip-critico {
+    @apply chip bg-critico-500/20 text-critico-400;
+  }
+}

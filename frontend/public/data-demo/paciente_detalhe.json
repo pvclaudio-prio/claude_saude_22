@@ -1,0 +1,1662 @@
+[
+  {
+    "id": 82946,
+    "hash_id": "2e0fcfe73d3befab15e0b4cc56eab9683e5f7b999a2071969ae07881b0fd7247",
+    "nome_display": "Paciente Veado-Ciano-2e0f",
+    "faixa_etaria": "66+",
+    "sexo": "Masculino",
+    "situacao_vulnerabilidade": false,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.94088446084639,
+    "endereco_longitude": -43.25134517133573,
+    "coordenada_outlier": false,
+    "score_atual": 30.0,
+    "nivel_risco": "moderado",
+    "ultima_visita_em": null,
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "sem_visita_registrada",
+        "peso": 18,
+        "descricao": "Sem visita registrada nos dados."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 1026,
+    "hash_id": "658141e85f87a88413e155c9506f1634774243e2fd4d7b2a6d7b00e7f0861a32",
+    "nome_display": "Paciente Inhambu-Ocre-6581",
+    "faixa_etaria": "0-6",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.976641237099766,
+    "endereco_longitude": -43.28465625347152,
+    "coordenada_outlier": false,
+    "score_atual": 53.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-10-09",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "crianca",
+        "peso": 10,
+        "descricao": "Criança 0-6 anos."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 227 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "primeira_infancia"
+  },
+  {
+    "id": 83331,
+    "hash_id": "062cb07aa89a6740f98ab68059f95095dcb89b1ec6e30b8716fe48f611637416",
+    "nome_display": "Paciente Tucano-Areia-062c",
+    "faixa_etaria": "66+",
+    "sexo": "Masculino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.972342884770946,
+    "endereco_longitude": -43.28401141378985,
+    "coordenada_outlier": false,
+    "score_atual": 67.0,
+    "nivel_risco": "critico",
+    "ultima_visita_em": "2025-10-30",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Parda",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 206 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 83206,
+    "hash_id": "ae6a9f802f91f1dfd08f4979eff34458c893dd5e5413e81b037ee35b3ca28d16",
+    "nome_display": "Paciente Tatu-Areia-ae6a",
+    "faixa_etaria": "66+",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.975083508799273,
+    "endereco_longitude": -43.28440425366068,
+    "coordenada_outlier": false,
+    "score_atual": 67.0,
+    "nivel_risco": "critico",
+    "ultima_visita_em": "2025-10-20",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Parda",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 216 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 82954,
+    "hash_id": "ec73613699d5579e67a7f4a099be78fe7365942ce295b58a42893c16516a498f",
+    "nome_display": "Paciente Saruê-Rubro-ec73",
+    "faixa_etaria": "66+",
+    "sexo": "Masculino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.976988601798748,
+    "endereco_longitude": -43.28255582660958,
+    "coordenada_outlier": false,
+    "score_atual": 67.0,
+    "nivel_risco": "critico",
+    "ultima_visita_em": "2026-05-24",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Parda",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 265 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 16403,
+    "hash_id": "80df1de25ee1cadbedb4ee3b97f6b7fa763ca15d4ca656b11d65b233a3c6edd2",
+    "nome_display": "Paciente Siriri-Ocre-80df",
+    "faixa_etaria": "19-45",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": true,
+    "endereco_latitude": -22.96592347673104,
+    "endereco_longitude": -43.278747191594825,
+    "coordenada_outlier": false,
+    "score_atual": 63.0,
+    "nivel_risco": "critico",
+    "ultima_visita_em": "2025-09-22",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "gestacao",
+        "peso": 20,
+        "descricao": "Paciente gestante."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 244 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "gestante"
+  },
+  {
+    "id": 83355,
+    "hash_id": "f9d72dff2ca2692a27b6a046538486da75782cdf5bad1c5886161c8b4ba06f72",
+    "nome_display": "Paciente Siriri-Bege-f9d7",
+    "faixa_etaria": "66+",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.929140926484255,
+    "endereco_longitude": -43.2344143470705,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": null,
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 9,
+    "bairro_id": 1,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "sem_visita_registrada",
+        "peso": 18,
+        "descricao": "Sem visita registrada nos dados."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 16029,
+    "hash_id": "31fcff92b1ec0396d0d8440bd366ae935169cdbbab1827a79588f24b14a33680",
+    "nome_display": "Paciente Tatu-Ocre-31fc",
+    "faixa_etaria": "19-45",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": true,
+    "endereco_latitude": -22.917741129791143,
+    "endereco_longitude": -43.36956428696349,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-12-15",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 27,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "gestacao",
+        "peso": 20,
+        "descricao": "Paciente gestante."
+      },
+      {
+        "chave": "sem_visita_90d",
+        "peso": 10,
+        "descricao": "Sem visita há 160 dias (>90)."
+      }
+    ],
+    "ficha_sugerida": "gestante"
+  },
+  {
+    "id": 83101,
+    "hash_id": "a461d54620de7bc56e124dc2aba65a220356910084d3bd8322fa9c18c3a0bdd5",
+    "nome_display": "Paciente Tatu-Dourado-a461",
+    "faixa_etaria": "66+",
+    "sexo": "Masculino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.97610117814308,
+    "endereco_longitude": -43.2834910884486,
+    "coordenada_outlier": false,
+    "score_atual": 67.0,
+    "nivel_risco": "critico",
+    "ultima_visita_em": "2025-08-27",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Parda",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 270 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 16545,
+    "hash_id": "6a8d7a61a726153a0ca3188db563623ebe1ce17a73d97c3a7ab9e3585ba82004",
+    "nome_display": "Paciente Tucano-Areia-6a8d",
+    "faixa_etaria": "19-45",
+    "sexo": "Masculino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.941649814778906,
+    "endereco_longitude": -43.25440137738346,
+    "coordenada_outlier": false,
+    "score_atual": 43.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": null,
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "sem_visita_registrada",
+        "peso": 18,
+        "descricao": "Sem visita registrada nos dados."
+      }
+    ],
+    "ficha_sugerida": "livre"
+  },
+  {
+    "id": 83234,
+    "hash_id": "af655d866b042eafa157cc4e3fe6600d2e75721da624d0359ac2bfd811851071",
+    "nome_display": "Paciente Saruê-Rosé-af65",
+    "faixa_etaria": "66+",
+    "sexo": "Masculino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.97597072017903,
+    "endereco_longitude": -43.285128769132456,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-07-27",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Preta",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 301 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 47907,
+    "hash_id": "cb460d116401e379ade39d3eff88603e5a33f25652c36e6084adbffeeec6c446",
+    "nome_display": "Paciente Garça-Azul-cb46",
+    "faixa_etaria": "45-65",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.918356073659833,
+    "endereco_longitude": -43.37064358893802,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-11-24",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 27,
+    "raca_cor": "Parda",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 181 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 83108,
+    "hash_id": "ffad252a54d695076cf03eea0b0f8ea4cee3f3748cdd55725c5908e8c953f661",
+    "nome_display": "Paciente Quati-Magenta-ffad",
+    "faixa_etaria": "66+",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.918204378673135,
+    "endereco_longitude": -43.36927077300574,
+    "coordenada_outlier": false,
+    "score_atual": 59.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-12-14",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 27,
+    "raca_cor": "Preta",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_90d",
+        "peso": 10,
+        "descricao": "Sem visita há 161 dias (>90)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 83109,
+    "hash_id": "cbdfb32e3eab53ebb6826a7e35ab764c8e830ee5ccb431c04b1fee7c8a77eb69",
+    "nome_display": "Paciente Veado-Âmbar-cbdf",
+    "faixa_etaria": "66+",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.96051340523908,
+    "endereco_longitude": -43.272661662234626,
+    "coordenada_outlier": false,
+    "score_atual": 67.0,
+    "nivel_risco": "critico",
+    "ultima_visita_em": null,
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Preta",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_registrada",
+        "peso": 18,
+        "descricao": "Sem visita registrada nos dados."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 83363,
+    "hash_id": "ab3153ad0a83686278ab21a2daf213e2905c2ded904677a6d16c64ab65c98e5a",
+    "nome_display": "Paciente Onça-Safira-ab31",
+    "faixa_etaria": "66+",
+    "sexo": "Masculino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.97684411051576,
+    "endereco_longitude": -43.28452658785939,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": null,
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "sem_visita_registrada",
+        "peso": 18,
+        "descricao": "Sem visita registrada nos dados."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 82985,
+    "hash_id": "18f66025d1145fdf06cb503a6ef786f47d3d2c43697a826519a5a98ba80a23e7",
+    "nome_display": "Paciente Tucano-Coral-18f6",
+    "faixa_etaria": "66+",
+    "sexo": "Masculino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.976624883766902,
+    "endereco_longitude": -43.28391716455956,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-04-02",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 417 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 83243,
+    "hash_id": "30005ad347598be05fc9ebdb4217def0cab50d61c04a20c84f3d5b592ec548ef",
+    "nome_display": "Paciente Marreca-Vinho-3000",
+    "faixa_etaria": "66+",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": false,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.939233999400187,
+    "endereco_longitude": -43.25049584195846,
+    "coordenada_outlier": false,
+    "score_atual": 42.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-08-04",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 293 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 16555,
+    "hash_id": "65c0870b8450d477611b17db75149d1443181f4f2fc47cc18211a06c6cb3e66f",
+    "nome_display": "Paciente Boto-Bege-65c0",
+    "faixa_etaria": "19-45",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.931854681976777,
+    "endereco_longitude": -43.2461133657973,
+    "coordenada_outlier": false,
+    "score_atual": 43.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": null,
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "raca_cor": "Outros",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "sem_visita_registrada",
+        "peso": 18,
+        "descricao": "Sem visita registrada nos dados."
+      }
+    ],
+    "ficha_sugerida": "livre"
+  },
+  {
+    "id": 83245,
+    "hash_id": "8e8002750f09079dbdf3a6db081972c87b9f18f5c8e6c6ef70f764838505c1d3",
+    "nome_display": "Paciente Garça-Bege-8e80",
+    "faixa_etaria": "66+",
+    "sexo": "Masculino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.97610511113617,
+    "endereco_longitude": -43.2852460090887,
+    "coordenada_outlier": false,
+    "score_atual": 61.0,
+    "nivel_risco": "critico",
+    "ultima_visita_em": "2025-10-28",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 208 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 83379,
+    "hash_id": "516c635a7094e5be9be7ae8e1c5b34ffc19de88c237a627664c30ae415e8ed0f",
+    "nome_display": "Paciente Jaguatirica-Rubro-516c",
+    "faixa_etaria": "66+",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.976873051756108,
+    "endereco_longitude": -43.282132254196114,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-10-22",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 214 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 16436,
+    "hash_id": "fa63054ad83cb0ae77b6c1b654ebcbd1fec7c67adbce0ece0e09b8aa07d5b73f",
+    "nome_display": "Paciente Siriri-Âmbar-fa63",
+    "faixa_etaria": "19-45",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": true,
+    "endereco_latitude": -22.976624559514793,
+    "endereco_longitude": -43.284328859146285,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-12-24",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Preta",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "gestacao",
+        "peso": 20,
+        "descricao": "Paciente gestante."
+      },
+      {
+        "chave": "sem_visita_90d",
+        "peso": 10,
+        "descricao": "Sem visita há 151 dias (>90)."
+      }
+    ],
+    "ficha_sugerida": "gestante"
+  },
+  {
+    "id": 1078,
+    "hash_id": "333ab7b25ae55723254525d3042af7e587dec96256f222d98dad419fd915da0d",
+    "nome_display": "Paciente Quati-Dourado-333a",
+    "faixa_etaria": "0-6",
+    "sexo": "Masculino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.938386412178954,
+    "endereco_longitude": -43.253862007669234,
+    "coordenada_outlier": false,
+    "score_atual": 45.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-12-23",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "raca_cor": "Parda",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "crianca",
+        "peso": 10,
+        "descricao": "Criança 0-6 anos."
+      },
+      {
+        "chave": "sem_visita_90d",
+        "peso": 10,
+        "descricao": "Sem visita há 152 dias (>90)."
+      }
+    ],
+    "ficha_sugerida": "primeira_infancia"
+  },
+  {
+    "id": 73787,
+    "hash_id": "d06b3b09c612e7cdb09fb5ca1a7ebd11ab5fccaaa255a3cd73f00c94a1e14d06",
+    "nome_display": "Paciente Veado-Turquesa-d06b",
+    "faixa_etaria": "66+",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.979462010001,
+    "endereco_longitude": -43.29177064454231,
+    "coordenada_outlier": false,
+    "score_atual": 59.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-12-15",
+    "equipe_id": 6,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Parda",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_90d",
+        "peso": 10,
+        "descricao": "Sem visita há 160 dias (>90)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 83003,
+    "hash_id": "f3485e9b1f38deb4bd62b737f8b1c3f7358849e03fb86c5738727c1107c17452",
+    "nome_display": "Paciente Siriri-Areia-f348",
+    "faixa_etaria": "66+",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.97448235945996,
+    "endereco_longitude": -43.28572210775866,
+    "coordenada_outlier": false,
+    "score_atual": 61.0,
+    "nivel_risco": "critico",
+    "ultima_visita_em": "2025-10-09",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Preta",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 227 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 16573,
+    "hash_id": "7bbe3a0bca6e3a5fb1cab755426e1d9fc809c5c685c9edcde0a4fcba8d8f745e",
+    "nome_display": "Paciente Marreca-Turquesa-7bbe",
+    "faixa_etaria": "19-45",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": true,
+    "endereco_latitude": -22.975640111696297,
+    "endereco_longitude": -43.28564618965592,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-12-25",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "gestacao",
+        "peso": 20,
+        "descricao": "Paciente gestante."
+      },
+      {
+        "chave": "sem_visita_90d",
+        "peso": 10,
+        "descricao": "Sem visita há 150 dias (>90)."
+      }
+    ],
+    "ficha_sugerida": "gestante"
+  },
+  {
+    "id": 16449,
+    "hash_id": "69852be9fc9e2556ac1eb90b0bba66afe7746c185890225462463a354c616f3e",
+    "nome_display": "Paciente Ariranha-Dourado-6985",
+    "faixa_etaria": "19-45",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.97476330632886,
+    "endereco_longitude": -43.287272537912926,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-10-24",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Parda",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 212 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 16322,
+    "hash_id": "6badbf5698fe52a4857dfeea9a35772c864adcf6767183658797474ee69c6d88",
+    "nome_display": "Paciente Siriri-Magenta-6bad",
+    "faixa_etaria": "19-45",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.96581077393967,
+    "endereco_longitude": -43.27938372676055,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-10-22",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Parda",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 214 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 47688,
+    "hash_id": "bfd06122beb2f7f65d6d8f70fcd1344c601107b4eb9e9f4b333498a3b11c45e4",
+    "nome_display": "Paciente Boto-Ocre-bfd0",
+    "faixa_etaria": "45-65",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.94848732603839,
+    "endereco_longitude": -43.258437113188926,
+    "coordenada_outlier": false,
+    "score_atual": 43.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-05-02",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "raca_cor": "Parda",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 387 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "livre"
+  },
+  {
+    "id": 16461,
+    "hash_id": "8c47784903059078e8f62ad11cc882b5e002e9ab9d8b7d1a8119485b9c9da9d9",
+    "nome_display": "Paciente Tucano-Safira-8c47",
+    "faixa_etaria": "19-45",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": true,
+    "endereco_latitude": -22.948696436017855,
+    "endereco_longitude": -43.36214398291225,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-12-16",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 27,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "gestacao",
+        "peso": 20,
+        "descricao": "Paciente gestante."
+      },
+      {
+        "chave": "sem_visita_90d",
+        "peso": 10,
+        "descricao": "Sem visita há 159 dias (>90)."
+      }
+    ],
+    "ficha_sugerida": "gestante"
+  },
+  {
+    "id": 48080,
+    "hash_id": "220ee6cbf5e418f3be89a52676449f2cb3b2d8886784f109e285ccc5f2072853",
+    "nome_display": "Paciente Carcará-Areia-220e",
+    "faixa_etaria": "45-65",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.9125072744131,
+    "endereco_longitude": -43.226091990881336,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-09-01",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 9,
+    "bairro_id": 22,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 265 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 16593,
+    "hash_id": "4906591e56ab45d30c64588a6158b447d6c2b1ee6a6e825eb0a1c931bc7f77f7",
+    "nome_display": "Paciente Saruê-Ciano-4906",
+    "faixa_etaria": "19-45",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.97507187383493,
+    "endereco_longitude": -43.28458563614004,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-10-17",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Preta",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 219 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 16084,
+    "hash_id": "c520fbbee46c91fd34f68deffbebaa95a7fd10e63dfb786f7f011d12f3cf4a36",
+    "nome_display": "Paciente Jaguatirica-Âmbar-c520",
+    "faixa_etaria": "19-45",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.976224894848944,
+    "endereco_longitude": -43.277354135254605,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-10-25",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Preta",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 211 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 83030,
+    "hash_id": "377eb9e478d1c1b1c88260334356bcda155a38aeb08f03967bf95d8da0222513",
+    "nome_display": "Paciente Sabiá-Vinho-377e",
+    "faixa_etaria": "66+",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.97635864103535,
+    "endereco_longitude": -43.2835277231144,
+    "coordenada_outlier": false,
+    "score_atual": 61.0,
+    "nivel_risco": "critico",
+    "ultima_visita_em": "2025-08-03",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 294 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 83031,
+    "hash_id": "6e1e27219d64371cef32255a9f27b052b66bdd099a63e0c5bb03b0d4559e9b9a",
+    "nome_display": "Paciente Onça-Rosé-6e1e",
+    "faixa_etaria": "66+",
+    "sexo": "Masculino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.918301551064,
+    "endereco_longitude": -43.37010096868968,
+    "coordenada_outlier": false,
+    "score_atual": 67.0,
+    "nivel_risco": "critico",
+    "ultima_visita_em": "2025-08-06",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 27,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 291 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 83302,
+    "hash_id": "7607636f9a5d805b87281c0dbe12b92573f2ac48496edde8fc65b3a593ad07ca",
+    "nome_display": "Paciente Siriri-Esmeralda-7607",
+    "faixa_etaria": "66+",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.97607067294495,
+    "endereco_longitude": -43.28366981951206,
+    "coordenada_outlier": false,
+    "score_atual": 55.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": null,
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7,
+    "bairro_id": 8,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "sem_visita_registrada",
+        "peso": 18,
+        "descricao": "Sem visita registrada nos dados."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 83048,
+    "hash_id": "70039ae5ab703a387b4b7f6e31a3eaa4f92c5eb387f50358a42a9235d847df74",
+    "nome_display": "Paciente Sabiá-Ciano-7003",
+    "faixa_etaria": "66+",
+    "sexo": "Feminino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": true,
+    "diabetico": true,
+    "gestacao": false,
+    "endereco_latitude": -22.94639879633677,
+    "endereco_longitude": -43.26056040869302,
+    "coordenada_outlier": false,
+    "score_atual": 59.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": "2025-11-25",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "raca_cor": "Preta",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "idoso",
+        "peso": 12,
+        "descricao": "Paciente idoso (66+)."
+      },
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "diabetes",
+        "peso": 6,
+        "descricao": "Diabetes referida."
+      },
+      {
+        "chave": "sem_visita_90d",
+        "peso": 10,
+        "descricao": "Sem visita há 180 dias (>90)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 47729,
+    "hash_id": "2bdf09d450874e772ce0439b5f2d2afead408297c045b91426f996b71033ed95",
+    "nome_display": "Paciente Boto-Rosé-2bdf",
+    "faixa_etaria": "45-65",
+    "sexo": "Masculino",
+    "situacao_vulnerabilidade": true,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.935446112907982,
+    "endereco_longitude": -43.24517535705812,
+    "coordenada_outlier": false,
+    "score_atual": 43.0,
+    "nivel_risco": "alto",
+    "ultima_visita_em": null,
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "raca_cor": "Preta",
+    "fatores_risco": [
+      {
+        "chave": "vulnerabilidade",
+        "peso": 25,
+        "descricao": "Paciente em situação de vulnerabilidade social."
+      },
+      {
+        "chave": "sem_visita_registrada",
+        "peso": 18,
+        "descricao": "Sem visita registrada nos dados."
+      }
+    ],
+    "ficha_sugerida": "livre"
+  },
+  {
+    "id": 16507,
+    "hash_id": "1efec0a349ff885bdc00fc75d0b861d1b38f85735c9acb497fd8ffbaea8388e0",
+    "nome_display": "Paciente Capivara-Pêssego-1efe",
+    "faixa_etaria": "19-45",
+    "sexo": "Masculino",
+    "situacao_vulnerabilidade": false,
+    "hipertenso": true,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.938554763625337,
+    "endereco_longitude": -43.24933796855627,
+    "coordenada_outlier": false,
+    "score_atual": 24.0,
+    "nivel_risco": "moderado",
+    "ultima_visita_em": "2025-05-15",
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "raca_cor": "Preta",
+    "fatores_risco": [
+      {
+        "chave": "hipertensao",
+        "peso": 6,
+        "descricao": "Hipertensão referida."
+      },
+      {
+        "chave": "sem_visita_180d",
+        "peso": 18,
+        "descricao": "Sem visita há 374 dias (>180)."
+      }
+    ],
+    "ficha_sugerida": "cronico"
+  },
+  {
+    "id": 16255,
+    "hash_id": "45a35633fc4f8884c7e8c3b37953d8596aa5afebed834a11833edb37f4caf032",
+    "nome_display": "Paciente Saruê-Turquesa-45a3",
+    "faixa_etaria": "19-45",
+    "sexo": "Masculino",
+    "situacao_vulnerabilidade": false,
+    "hipertenso": false,
+    "diabetico": false,
+    "gestacao": false,
+    "endereco_latitude": -22.938764975527764,
+    "endereco_longitude": -43.25202559909006,
+    "coordenada_outlier": false,
+    "score_atual": 18.0,
+    "nivel_risco": "baixo",
+    "ultima_visita_em": null,
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 1,
+    "bairro_id": 21,
+    "raca_cor": "Branca",
+    "fatores_risco": [
+      {
+        "chave": "sem_visita_registrada",
+        "peso": 18,
+        "descricao": "Sem visita registrada nos dados."
+      }
+    ],
+    "ficha_sugerida": "livre"
+  }
+]

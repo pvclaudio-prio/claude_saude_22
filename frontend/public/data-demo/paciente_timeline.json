@@ -1,0 +1,2426 @@
+[
+  {
+    "paciente_id": 82946,
+    "itens": []
+  },
+  {
+    "paciente_id": 1026,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-10-09",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-04-23",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 2
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 83331,
+    "itens": [
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-11-23",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-30",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-23",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-09-06",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-28",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-09",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-06-01",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-05-02",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 83206,
+    "itens": [
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-12-01",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-20",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-04",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-09-15",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-16",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-15",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 3510,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-08",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 5
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-03",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-26",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-14",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-12",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-04-12",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-17",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-07",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-02-21",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-15",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-10",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-02-10",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-01-10",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 3
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 82954,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2026-05-24",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": null
+        }
+      },
+      {
+        "tipo": "registro_visita",
+        "data": "2026-05-24",
+        "rotulo": "Registro (cronico)",
+        "detalhes": {
+          "resumo": "Paciente estável. Aderência boa, sem queixas.",
+          "status": "visitado",
+          "origem": "manual"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-09-01",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-08",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-16",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 1
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 16403,
+    "itens": [
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-12-27",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-10-05",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-09-22",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-09-22",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-07-28",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-27",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-07-25",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-19",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-06-22",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-06-14",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-05-30",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-21",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 4
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 83355,
+    "itens": []
+  },
+  {
+    "paciente_id": 16029,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-12-15",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-21",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-17",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-01-07",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 1
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 83101,
+    "itens": [
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-09-09",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-27",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-06-23",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-06-19",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-05-30",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-13",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-04-09",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-04-08",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-01-21",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 2
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 16545,
+    "itens": []
+  },
+  {
+    "paciente_id": 83234,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-07-27",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-05-17",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-11",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-04-12",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-04-11",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-02",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-14",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 6
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-01-02",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 47907,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-11-24",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-11-20",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-14",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-06-30",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-06-26",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-28",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-03-26",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-13",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 83108,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-12-14",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-14",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-12",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 5
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-12",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-09",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-05",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 2
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 83109,
+    "itens": []
+  },
+  {
+    "paciente_id": 83363,
+    "itens": []
+  },
+  {
+    "paciente_id": 82985,
+    "itens": [
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-04-11",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-04-02",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 1
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 83243,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-08-04",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-31",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-06-05",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-25",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 7
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-05-05",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-01",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-08",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-06",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 3
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 16555,
+    "itens": []
+  },
+  {
+    "paciente_id": 83245,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-10-28",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-10",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-06-22",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-06-06",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 5
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-05-29",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-27",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-15",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-05-09",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 83379,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-10-22",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 2
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 16436,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-12-24",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2554,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-12-11",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2554,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-12-03",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-11-29",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2554,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-11-19",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2554,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-11-07",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2554,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-30",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-30",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2554,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-10-30",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-21",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-15",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-10-06",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-03",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-01",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 6
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-09-27",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-09-24",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-07-04",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-06-27",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-28",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-21",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-26",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-01-22",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 1078,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-12-23",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-11-09",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-11-03",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-23",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-09-28",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-31",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-26",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-12",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 6
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-04",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-26",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2087,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-23",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-16",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-01",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2087,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-15",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2087,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-04-14",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2087,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-23",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2087,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-18",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2087,
+          "ordem": 1
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 73787,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-12-15",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 1231,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-11-23",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 1231,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-11-02",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-23",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-09",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-09-21",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-17",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-04",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-10",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-14",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-02-09",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 83003,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-10-09",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-09-26",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-08",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-27",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 2
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 16573,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-12-25",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-08-11",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-28",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-25",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 1
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 16449,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-10-24",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-17",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-04-29",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 1
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 16322,
+    "itens": [
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-11-21",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-22",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 47688,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-05-02",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 927,
+          "ordem": 1
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 16461,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-12-16",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-12-02",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-11-29",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-11-25",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-21",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-09-03",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-17",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-13",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-10",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-07-26",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-20",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-16",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-06-22",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 6
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-06-08",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-28",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-24",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-26",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 4
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 48080,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-09-01",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-11",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-04-28",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-04-12",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-04-03",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 5
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-26",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-01-09",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 2
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 16593,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-10-17",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-11",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-09-27",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-10",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 5
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-03",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-21",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 5
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-17",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 6
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-05-16",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-09",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-01-05",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 1
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 16084,
+    "itens": [
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-11-04",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-10-28",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-25",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-09-20",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 5
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-17",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-04-17",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-12",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-20",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-15",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-01-15",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 3
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 83030,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-08-03",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 4
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 83031,
+    "itens": [
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-08-13",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-06",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-03",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 3510,
+          "ordem": 1
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 83302,
+    "itens": []
+  },
+  {
+    "paciente_id": 83048,
+    "itens": [
+      {
+        "tipo": "visita",
+        "data": "2025-11-25",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-11-13",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-11-05",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2471,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-21",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-10-07",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-10-03",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-09-13",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-09-12",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-29",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-23",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-08-13",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-05",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-08-02",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-08-02",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-31",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-26",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-11",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-07-04",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-07-03",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-06-14",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 99,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-06-06",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-30",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-05-21",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-14",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 6
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-08",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-04-21",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-03-19",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-14",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-20",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2547,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-06",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 3
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-04",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 2539,
+          "ordem": 4
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-01-10",
+        "rotulo": "Agendamento",
+        "detalhes": {
+          "tipo": "agendamento"
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 47729,
+    "itens": []
+  },
+  {
+    "paciente_id": 16507,
+    "itens": [
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-09-03",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-05-15",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 3510,
+          "ordem": 5
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-04-26",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-04-12",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-21",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 3510,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-03-07",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 3510,
+          "ordem": 2
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-02-27",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "visita",
+        "data": "2025-02-25",
+        "rotulo": "Visita do ACS",
+        "detalhes": {
+          "profissional_id": 3510,
+          "ordem": 1
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-02-23",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-02-03",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      },
+      {
+        "tipo": "evento_clinico",
+        "data": "2025-01-22",
+        "rotulo": "Urgência / emergência / internação",
+        "detalhes": {
+          "tipo": "urgencia-emergencia-ou-internacao"
+        }
+      }
+    ]
+  },
+  {
+    "paciente_id": 16255,
+    "itens": []
+  }
+]

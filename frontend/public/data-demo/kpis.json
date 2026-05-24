@@ -1,0 +1,17 @@
+{
+  "pacientes_total": 97938,
+  "pacientes_criticos": 303,
+  "pacientes_alto_risco": 10779,
+  "pacientes_vulneraveis": 9191,
+  "gestantes": 661,
+  "hipertensos": 21017,
+  "diabeticos": 8172,
+  "idosos": 24858,
+  "criancas_0_6": 2746,
+  "sem_visita_90d": 49099,
+  "sem_visita_180d": 36898,
+  "visitas_ultimo_mes": 1,
+  "eventos_urgencia_30d": 0,
+  "score_medio": 24.6,
+  "escopo": "Admin (todos)"
+}

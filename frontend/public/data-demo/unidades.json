@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "hash_id": "def3447c0887f8db9a50428921ffaf093aa352855fdec199f7d4d58e1d2f133b",
+    "nome_display": "Unidade Turquesa-def3",
+    "ap_id": 1,
+    "bairro_id": null,
+    "centro_lat": -22.914938174048558,
+    "centro_lon": -43.25947757441125
+  },
+  {
+    "id": 2,
+    "hash_id": "dc68b320bf262fca981d81788b07dd8421ab76e2f7b8f477c1a28325f4a67131",
+    "nome_display": "Unidade Rubro-dc68",
+    "ap_id": 9,
+    "bairro_id": null,
+    "centro_lat": -22.927419316032726,
+    "centro_lon": -43.237170523300136
+  },
+  {
+    "id": 3,
+    "hash_id": "e5870ba3ed7389386a46dfe2094e1d59644daf3064e0606ea6d67856f6a22b4e",
+    "nome_display": "Unidade Âmbar-e587",
+    "ap_id": 7,
+    "bairro_id": null,
+    "centro_lat": -22.962022076904642,
+    "centro_lon": -43.292882722599934
+  },
+  {
+    "id": 4,
+    "hash_id": "a8bc6bce73b0640441c1591892ab44b8f1f7b2f108fad363993c9a821a73cc0e",
+    "nome_display": "Unidade Verde-a8bc",
+    "ap_id": 1,
+    "bairro_id": null,
+    "centro_lat": -22.92779745469277,
+    "centro_lon": -43.25937182036343
+  },
+  {
+    "id": 5,
+    "hash_id": "473a30dd7dd8b7b2b348fa973f9ee3233a0828cea0dc02fdfcfcf3854a6f678f",
+    "nome_display": "Unidade Rosé-473a",
+    "ap_id": 1,
+    "bairro_id": null,
+    "centro_lat": -22.914747827213272,
+    "centro_lon": -43.249875464104036
+  },
+  {
+    "id": 6,
+    "hash_id": "c40f1aa9ea99bb08a7517d529c84e37ab69a11b71a67c01d9463caf61eb25858",
+    "nome_display": "Unidade Rosé-c40f",
+    "ap_id": 9,
+    "bairro_id": null,
+    "centro_lat": -22.91571711194808,
+    "centro_lon": -43.221567059930386
+  },
+  {
+    "id": 7,
+    "hash_id": "f4d57f110a9e887986f16c2505ceb998a964fb02fbb6cc2c5a9254319389c577",
+    "nome_display": "Unidade Âmbar-f4d5",
+    "ap_id": 1,
+    "bairro_id": null,
+    "centro_lat": -22.93906929999674,
+    "centro_lon": -43.25457408600029
+  },
+  {
+    "id": 8,
+    "hash_id": "8808b971ce36ad90ca7a15b31f8432025682c06fc147d68a52f77bc63f447d5e",
+    "nome_display": "Unidade Pêssego-8808",
+    "ap_id": 1,
+    "bairro_id": null,
+    "centro_lat": -22.9359576734723,
+    "centro_lon": -43.24088229880726
+  },
+  {
+    "id": 9,
+    "hash_id": "7fb297a1e7a9b6d3d0d0faae9b7ade1ee04132e3193be9a2f6e4f0a8fa64b81f",
+    "nome_display": "Unidade Safira-7fb2",
+    "ap_id": 1,
+    "bairro_id": null,
+    "centro_lat": -22.92877551705415,
+    "centro_lon": -43.24454109357045
+  }
+]

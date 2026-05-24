@@ -1,0 +1,82 @@
+{
+  "admin": {
+    "id": 1,
+    "username": "admin",
+    "nome_display": "Admin Saúde RJ",
+    "role": "admin",
+    "profissional_id": null,
+    "equipe_id": null,
+    "unidade_id": null,
+    "ap_id": null
+  },
+  "gestor_unidade": {
+    "id": 3,
+    "username": "gestor_unidade",
+    "nome_display": "Gestor Unidade Rubro-dc68",
+    "role": "gestor_unidade",
+    "profissional_id": null,
+    "equipe_id": null,
+    "unidade_id": 2,
+    "ap_id": 9
+  },
+  "gestor_ap": {
+    "id": 2,
+    "username": "gestor_ap",
+    "nome_display": "Gestor AP-01",
+    "role": "gestor_ap",
+    "profissional_id": null,
+    "equipe_id": null,
+    "unidade_id": null,
+    "ap_id": 1
+  },
+  "acs1": {
+    "id": 4,
+    "username": "acs1",
+    "nome_display": "ACS Âmbar-af9c",
+    "role": "acs",
+    "profissional_id": 2471,
+    "equipe_id": 26,
+    "unidade_id": 3,
+    "ap_id": 7
+  },
+  "acs2": {
+    "id": 5,
+    "username": "acs2",
+    "nome_display": "ACS Magenta-5583",
+    "role": "acs",
+    "profissional_id": 1228,
+    "equipe_id": 28,
+    "unidade_id": 2,
+    "ap_id": 9
+  },
+  "acs3": {
+    "id": 6,
+    "username": "acs3",
+    "nome_display": "ACS Turquesa-e819",
+    "role": "acs",
+    "profissional_id": 3193,
+    "equipe_id": 14,
+    "unidade_id": 2,
+    "ap_id": 9
+  },
+  "acs4": {
+    "id": 7,
+    "username": "acs4",
+    "nome_display": "ACS Ciano-e919",
+    "role": "acs",
+    "profissional_id": 3211,
+    "equipe_id": 37,
+    "unidade_id": 1,
+    "ap_id": 1
+  },
+  "acs5": {
+    "id": 8,
+    "username": "acs5",
+    "nome_display": "ACS Magenta-b482",
+    "role": "acs",
+    "profissional_id": 2526,
+    "equipe_id": 28,
+    "unidade_id": 2,
+    "ap_id": 9
+  }
+}
