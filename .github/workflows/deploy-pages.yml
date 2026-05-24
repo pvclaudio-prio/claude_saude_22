@@ -21,34 +21,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # ----- Backend (gera JSONs do modo demo) -----
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-          cache: "pip"
-          cache-dependency-path: backend/requirements.txt
-
-      - name: Install backend deps (minimal — sem STT/RAG pesados)
-        working-directory: backend
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Ingest parquets → SQLite
-        working-directory: backend
-        env:
-          ANTHROPIC_API_KEY: "sk-ant-api03-NOT-NEEDED-FOR-DEMO-JSON"
-        run: |
-          python -m scripts.ingest --dias-planner 6
-
-      - name: Build demo JSONs → frontend/public/data-demo
-        working-directory: backend
-        env:
-          ANTHROPIC_API_KEY: "sk-ant-api03-NOT-NEEDED-FOR-DEMO-JSON"
-        run: |
-          python -m scripts.build_demo
-
       # ----- Frontend -----
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -59,7 +31,7 @@ jobs:
 
       - name: Install frontend deps
         working-directory: frontend
-        run: npm ci || npm install
+        run: npm ci
 
       - name: Build (modo demo, base path do GH Pages)
         working-directory: frontend

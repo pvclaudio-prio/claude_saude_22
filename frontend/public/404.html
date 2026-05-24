@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Redirecionando...</title>
+    <script>
+      (function () {
+        var parts = window.location.pathname.split("/").filter(Boolean);
+        var repo = parts.length > 0 ? "/" + parts[0] + "/" : "/";
+        var route = "/" + parts.slice(1).join("/");
+        if (route === "/") route = "/login";
+        window.location.replace(repo + "#" + route + window.location.search + window.location.hash);
+      })();
+    </script>
+  </head>
+  <body>
+    Redirecionando...
+  </body>
+</html>
