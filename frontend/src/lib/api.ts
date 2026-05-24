@@ -12,7 +12,11 @@
 import { useAuthStore } from "./store";
 
 const API_BASE = (import.meta.env.VITE_API_BASE_URL as string | undefined) ?? "/api";
-export const DEMO_MODE = String(import.meta.env.VITE_DEMO_MODE ?? "").toLowerCase() === "true";
+const ENV_DEMO_MODE = String(import.meta.env.VITE_DEMO_MODE ?? "").toLowerCase() === "true";
+const IS_GITHUB_PAGES =
+  typeof window !== "undefined" && window.location.hostname.endsWith("github.io");
+
+export const DEMO_MODE = ENV_DEMO_MODE || IS_GITHUB_PAGES;
 
 export class ApiError extends Error {
   status: number;
